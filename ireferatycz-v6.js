@@ -1,4 +1,4 @@
-/* Version: A_01 - 17.01. 2023 - 16:31:01 */
+/* Version: A_01 - 17.01. 2023 - 16:32:51 */
 
 
 //masterString
@@ -36,6 +36,13 @@ if(imAbRandomNumber < 0.25){
     
     if(imHbMbIsMobile.any()){}else{
     
+var div = document.createElement("div");
+div.setAttribute("id", "id_kts_A_26");
+document.querySelector("#regexDivId").insertAdjacentElement("afterend", div);
+    
+console.log("imab push id_kts_A: id_kts_A_26 name: id 26");
+document.querySelector("#id_kts_A_26").innerHTML = "<scr"+"ipt>"console.log('box_js')"</scr"+"ipt>";
+
     
     }
     
