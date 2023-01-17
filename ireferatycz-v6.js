@@ -1,4 +1,4 @@
-/* Version: A_01 - 17.01. 2023 - 18:42:02 */
+/* Version: A_01 - 17.01. 2023 - 18:43:03 */
 
 
 //masterString
@@ -70,7 +70,7 @@ div.setAttribute("id", "html_id_kts_A_26");
 document.querySelector("#regexDivId").insertAdjacentElement("beforeend", div);
     
 console.log("imab push html_id_kts_A: html_id_kts_A_26 name: id 26");
-document.querySelector("#html_id_kts_A_26").innerHTML += "<span style=\"color:green\">Green test box_html (font 30px)</span>";
+document.querySelector("#html_id_kts_A_26").innerHTML += "<span style=\"color:green\">Green test 50% box_html (font 30px)</span>";
 
     
     }
@@ -115,7 +115,7 @@ div.setAttribute("id", "html_id_kts_A_31");
 document.querySelector("#regexDivId").insertAdjacentElement("beforeend", div);
     
 console.log("imab push html_id_kts_A: html_id_kts_A_31 name: id 31");
-document.querySelector("#html_id_kts_A_31").innerHTML += "<span style=\"color:red\">Red test box_html (font 60px)</span>";
+document.querySelector("#html_id_kts_A_31").innerHTML += "<span style=\"color:red\">Red test 50% box_html (font 60px)</span>";
 
     
     }
