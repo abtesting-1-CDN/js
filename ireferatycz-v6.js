@@ -1,4 +1,4 @@
-/* Version: A_01 - 17.01. 2023 - 18:41:12 */
+/* Version: A_01 - 17.01. 2023 - 18:42:02 */
 
 
 //masterString
@@ -115,7 +115,7 @@ div.setAttribute("id", "html_id_kts_A_31");
 document.querySelector("#regexDivId").insertAdjacentElement("beforeend", div);
     
 console.log("imab push html_id_kts_A: html_id_kts_A_31 name: id 31");
-document.querySelector("#html_id_kts_A_31").innerHTML += "<span style=\"color:green\">Red test box_html (font 60px)</span>";
+document.querySelector("#html_id_kts_A_31").innerHTML += "<span style=\"color:red\">Red test box_html (font 60px)</span>";
 
     
     }
