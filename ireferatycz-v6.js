@@ -1,4 +1,4 @@
-/* Version: A_01 - 17.01. 2023 - 17:04:04 */
+/* Version: A_01 - 17.01. 2023 - 17:13:42 */
 
 
 //masterString
@@ -39,14 +39,11 @@ if(imAbRandomNumber < 1){
 var div = document.createElement("div");
 div.setAttribute("id", "js_id_kts_A_26");
 document.querySelector("#regexDivId").insertAdjacentElement("afterbegin", div);
-    
 console.log("imab push js_id_kts_A: js_id_kts_A_26 name: id 26");
 var imJsElem = document.createElement("script");
 imJsElem.type = "text/javascript";
 imJsElem.id = "jscript_id_kts_A_26";
 imJsElem.innerHTML = "console.log(\"box_js\")";
-                    
-//document.querySelector("#js_id_kts_A_26").innerHTML = "<scr"+"ipt type=\"text/javascript\">console.log(\"box_js\")</scr"+"ipt>";
 document.querySelector("#js_id_kts_A_26").appendChild(imJsElem);
 
 var div = document.createElement("div");
@@ -54,7 +51,19 @@ div.setAttribute("id", "css_id_kts_A_26");
 document.querySelector("#regexDivId").insertAdjacentElement("afterbegin", div);
     
 console.log("imab push css_id_kts_A: css_id_kts_A_26 name: id 26");
-document.querySelector("#css_id_kts_A_26").innerHTML += "<sty"+"le>#regexDivId span{color:green !importatn}</sty"+"le>";
+    
+
+var imAbStyleNode;
+var imAbContentStyleTop = "#regexDivId span{color:green !importatn}";
+if((imAbStyleNode = document.createElement("style")).id = "cssscript_id_kts_A_26", imAbStyleNode.type = "text/css", window.attachEvent && !window.opera){ 
+    imAbStyleNode.styleSheet.cssText = imAbContentStyleTop;
+}else{
+    var imAbStyleText = document.createTextNode(imAbContentStyleTop);
+    imAbStyleNode.appendChild(imAbStyleText)
+}
+
+//document.querySelector("#css_id_kts_A_26").innerHTML += "<sty"+"le>#regexDivId span{color:green !importatn}</sty"+"le>";
+document.querySelector("#css_id_kts_A_26").appendChild(imAbStyleNode);   
 
 var div = document.createElement("div");
 div.setAttribute("id", "html_id_kts_A_26");
