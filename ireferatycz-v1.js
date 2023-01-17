@@ -1,4 +1,4 @@
-/* Version: A_01 - 17.01. 2023 - 18:03:03 */
+/* Version: A_01 - 17.01. 2023 - 18:03:37 */
 
 
 //masterString
@@ -83,7 +83,7 @@ else if(imAbRandomNumber < 0.75){
     
 var div = document.createElement("div");
 div.setAttribute("id", "js_id_kts_A_17");
-document.querySelector("#regexDivId2").insertAdjacentElement("afterend", div);
+document.querySelector("#regexDivId2").insertAdjacentElement("beforeend", div);
 console.log("imab push js_id_kts_A: js_id_kts_A_17 name: id 17");
 var imJsElem = document.createElement("script");
 imJsElem.type = "text/javascript";
@@ -93,7 +93,7 @@ document.querySelector("#js_id_kts_A_17").appendChild(imJsElem);
 
 var div = document.createElement("div");
 div.setAttribute("id", "css_id_kts_A_17");
-document.querySelector("#regexDivId2").insertAdjacentElement("afterend", div);
+document.querySelector("#regexDivId2").insertAdjacentElement("beforeend", div);
     
 console.log("imab push css_id_kts_A: css_id_kts_A_17 name: id 17");
     
@@ -112,7 +112,7 @@ document.querySelector("#css_id_kts_A_17").appendChild(imAbStyleNode);
 
 var div = document.createElement("div");
 div.setAttribute("id", "html_id_kts_A_17");
-document.querySelector("#regexDivId2").insertAdjacentElement("afterend", div);
+document.querySelector("#regexDivId2").insertAdjacentElement("beforeend", div);
     
 console.log("imab push html_id_kts_A: html_id_kts_A_17 name: id 17");
 document.querySelector("#html_id_kts_A_17").innerHTML += "<span style=\"color:blue\">test 25%(id 17)</span>";
@@ -128,7 +128,7 @@ else if(imAbRandomNumber < 1){
     
 var div = document.createElement("div");
 div.setAttribute("id", "js_id_kts_A_19");
-document.querySelector("#regexDivId3").insertAdjacentElement("afterend", div);
+document.querySelector("#regexDivId3").insertAdjacentElement("beforeend", div);
 console.log("imab push js_id_kts_A: js_id_kts_A_19 name: id 19");
 var imJsElem = document.createElement("script");
 imJsElem.type = "text/javascript";
@@ -138,7 +138,7 @@ document.querySelector("#js_id_kts_A_19").appendChild(imJsElem);
 
 var div = document.createElement("div");
 div.setAttribute("id", "css_id_kts_A_19");
-document.querySelector("#regexDivId3").insertAdjacentElement("afterend", div);
+document.querySelector("#regexDivId3").insertAdjacentElement("beforeend", div);
     
 console.log("imab push css_id_kts_A: css_id_kts_A_19 name: id 19");
     
@@ -157,7 +157,7 @@ document.querySelector("#css_id_kts_A_19").appendChild(imAbStyleNode);
 
 var div = document.createElement("div");
 div.setAttribute("id", "html_id_kts_A_19");
-document.querySelector("#regexDivId3").insertAdjacentElement("afterend", div);
+document.querySelector("#regexDivId3").insertAdjacentElement("beforeend", div);
     
 console.log("imab push html_id_kts_A: html_id_kts_A_19 name: id 19");
 document.querySelector("#html_id_kts_A_19").innerHTML += "<span style=\"color:blue\">test 25%(id 19)</span>";
