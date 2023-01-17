@@ -1,4 +1,4 @@
-/* Version: A_01 - 17.01. 2023 - 16:42:50 */
+/* Version: A_01 - 17.01. 2023 - 16:46:24 */
 
 
 //masterString
@@ -37,25 +37,25 @@ if(imAbRandomNumber < 0.25){
     if(imHbMbIsMobile.any()){}else{
     
 var div = document.createElement("div");
-div.setAttribute("id", "id_kts_A_26");
+div.setAttribute("id", "js_id_kts_A_26");
 document.querySelector("#regexDivId").insertAdjacentElement("afterend", div);
     
-console.log("imab push id_kts_A: id_kts_A_26 name: id 26");
-document.querySelector("#id_kts_A_26").innerHTML += "<scr"+"ipt>console.log('box_js')</scr"+"ipt>";
+console.log("imab push js_id_kts_A: js_id_kts_A_26 name: id 26");
+document.querySelector("#js_id_kts_A_26").innerHTML += "<scr"+"ipt>console.log('box_js')</scr"+"ipt>";
 
 var div = document.createElement("div");
-div.setAttribute("id", "id_kts_A_26");
+div.setAttribute("id", "css_id_kts_A_26");
 document.querySelector("#regexDivId").insertAdjacentElement("afterend", div);
     
-console.log("imab push id_kts_A: id_kts_A_26 name: id 26");
-document.querySelector("#id_kts_A_26").innerHTML += "<sty"+"le>#regexDivId{color:green !importatn}</sty"+"le>";
+console.log("imab push css_id_kts_A: css_id_kts_A_26 name: id 26");
+document.querySelector("#css_id_kts_A_26").innerHTML += "<sty"+"le>#regexDivId{color:green !importatn}</sty"+"le>";
 
 var div = document.createElement("div");
-div.setAttribute("id", "id_kts_A_26");
+div.setAttribute("id", "html_id_kts_A_26");
 document.querySelector("#regexDivId").insertAdjacentElement("afterend", div);
     
-console.log("imab push id_kts_A: id_kts_A_26 name: id 26");
-document.querySelector("#id_kts_A_26").innerHTML += "<span style=\"color:blue\">Test box_html</span>";
+console.log("imab push html_id_kts_A: html_id_kts_A_26 name: id 26");
+document.querySelector("#html_id_kts_A_26").innerHTML += "<span style=\"color:blue\">Test box_html</span>";
 
     
     }
