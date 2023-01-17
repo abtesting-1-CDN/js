@@ -1,4 +1,4 @@
-/* Version: A_01 - 17.01. 2023 - 15:59:26 */
+/* Version: A_01 - 17.01. 2023 - 16:18:29 */
 
 
 //masterString
@@ -42,9 +42,9 @@ document.querySelector("#regexDivId").insertAdjacentElement("afterend", div);
     
 console.log("imab push id_kts_A: id_kts_A_26 name: id 26");
 document.querySelector("#id_kts_A_26").innerHTML = "
-        <div class="box_js boxKts" contenteditable="true">console.log('box_js')</div>
-<div class="box_css boxKts" contenteditable="true">#regexDivId{color:green !importatn}</div>
-<div class="box_html boxKts" contenteditable="true">&lt;span style="color:blue"&gt;Test box_html&lt;/span&gt;</div>    ";
+        console.log('box_js')
+#regexDivId{color:green !importatn}
+&lt;span style="color:blue"&gt;Test box_html&lt;/span&gt;    ";
 
     
     }
