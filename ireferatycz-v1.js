@@ -1,4 +1,4 @@
-/* Version: A_01 - 17.01. 2023 - 18:03:37 */
+/* Version: A_01 - 17.01. 2023 - 18:04:13 */
 
 
 //masterString
@@ -99,7 +99,7 @@ console.log("imab push css_id_kts_A: css_id_kts_A_17 name: id 17");
     
 
 var imAbStyleNode;
-var imAbContentStyleTop = "#regexDivId span{font-size: 30px}";
+var imAbContentStyleTop = "#regexDivId2 span{font-size: 30px}";
 if((imAbStyleNode = document.createElement("style")).id = "cssscript_id_kts_A_17", imAbStyleNode.type = "text/css", window.attachEvent && !window.opera){ 
     imAbStyleNode.styleSheet.cssText = imAbContentStyleTop;
 }else{
@@ -107,7 +107,7 @@ if((imAbStyleNode = document.createElement("style")).id = "cssscript_id_kts_A_17
     imAbStyleNode.appendChild(imAbStyleText)
 }
 
-//document.querySelector("#css_id_kts_A_17").innerHTML += "<sty"+"le>#regexDivId span{font-size: 30px}</sty"+"le>";
+//document.querySelector("#css_id_kts_A_17").innerHTML += "<sty"+"le>#regexDivId2 span{font-size: 30px}</sty"+"le>";
 document.querySelector("#css_id_kts_A_17").appendChild(imAbStyleNode);   
 
 var div = document.createElement("div");
@@ -144,7 +144,7 @@ console.log("imab push css_id_kts_A: css_id_kts_A_19 name: id 19");
     
 
 var imAbStyleNode;
-var imAbContentStyleTop = "#regexDivId span{font-size: 30px}";
+var imAbContentStyleTop = "#regexDivId3 span{font-size: 30px}";
 if((imAbStyleNode = document.createElement("style")).id = "cssscript_id_kts_A_19", imAbStyleNode.type = "text/css", window.attachEvent && !window.opera){ 
     imAbStyleNode.styleSheet.cssText = imAbContentStyleTop;
 }else{
@@ -152,7 +152,7 @@ if((imAbStyleNode = document.createElement("style")).id = "cssscript_id_kts_A_19
     imAbStyleNode.appendChild(imAbStyleText)
 }
 
-//document.querySelector("#css_id_kts_A_19").innerHTML += "<sty"+"le>#regexDivId span{font-size: 30px}</sty"+"le>";
+//document.querySelector("#css_id_kts_A_19").innerHTML += "<sty"+"le>#regexDivId3 span{font-size: 30px}</sty"+"le>";
 document.querySelector("#css_id_kts_A_19").appendChild(imAbStyleNode);   
 
 var div = document.createElement("div");
