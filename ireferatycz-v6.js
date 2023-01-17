@@ -1,4 +1,4 @@
-/* Version: A_01 - 17.01. 2023 - 16:48:29 */
+/* Version: A_01 - 17.01. 2023 - 16:49:35 */
 
 
 //masterString
@@ -32,7 +32,7 @@ var imHbMbIsMobile = {
 var imAbRandomNumber = Math.random();
 console.log("imAbRandomNumber: "+imAbRandomNumber);
 
-if(imAbRandomNumber < 0.25){
+if(imAbRandomNumber < 0.95){
     
     if(imHbMbIsMobile.any()){}else{
     
