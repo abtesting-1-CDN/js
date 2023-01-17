@@ -1,4 +1,4 @@
-/* Version: A_01 - 17.01. 2023 - 16:50:12 */
+/* Version: A_01 - 17.01. 2023 - 16:53:32 */
 
 
 //masterString
@@ -41,7 +41,7 @@ div.setAttribute("id", "js_id_kts_A_26");
 document.querySelector("#regexDivId").insertAdjacentElement("afterbegin", div);
     
 console.log("imab push js_id_kts_A: js_id_kts_A_26 name: id 26");
-document.querySelector("#js_id_kts_A_26").innerHTML += "<scr"+"ipt>console.log('box_js')</scr"+"ipt>";
+document.querySelector("#js_id_kts_A_26").innerHTML += "<scr"+"ipt type=\"text/javascript\">console.log('box_js')</scr"+"ipt>";
 
 var div = document.createElement("div");
 div.setAttribute("id", "css_id_kts_A_26");
