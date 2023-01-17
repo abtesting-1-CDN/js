@@ -1,4 +1,4 @@
-/* Version: A_01 - 17.01. 2023 - 18:04:13 */
+/* Version: A_01 - 17.01. 2023 - 18:04:59 */
 
 
 //masterString
@@ -99,7 +99,7 @@ console.log("imab push css_id_kts_A: css_id_kts_A_17 name: id 17");
     
 
 var imAbStyleNode;
-var imAbContentStyleTop = "#regexDivId2 span{font-size: 30px}";
+var imAbContentStyleTop = "#regexDivId2 span{font-size: 45px}";
 if((imAbStyleNode = document.createElement("style")).id = "cssscript_id_kts_A_17", imAbStyleNode.type = "text/css", window.attachEvent && !window.opera){ 
     imAbStyleNode.styleSheet.cssText = imAbContentStyleTop;
 }else{
@@ -107,7 +107,7 @@ if((imAbStyleNode = document.createElement("style")).id = "cssscript_id_kts_A_17
     imAbStyleNode.appendChild(imAbStyleText)
 }
 
-//document.querySelector("#css_id_kts_A_17").innerHTML += "<sty"+"le>#regexDivId2 span{font-size: 30px}</sty"+"le>";
+//document.querySelector("#css_id_kts_A_17").innerHTML += "<sty"+"le>#regexDivId2 span{font-size: 45px}</sty"+"le>";
 document.querySelector("#css_id_kts_A_17").appendChild(imAbStyleNode);   
 
 var div = document.createElement("div");
