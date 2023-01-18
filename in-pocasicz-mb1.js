@@ -1,4 +1,4 @@
-/* Version: A_01 - 18.01. 2023 - 12:47:19 */
+/* Version: A_01 - 18.01. 2023 - 12:56:38 */
 
 
 //masterString
@@ -32,7 +32,7 @@ var imHbMbIsMobile = {
 var imAbRandomNumber = Math.random();
 console.log("imAbRandomNumber: "+imAbRandomNumber);
 
-if(imAbRandomNumber < 0.2){
+if(imAbRandomNumber < 0.01){
     
     
     
@@ -40,59 +40,51 @@ if(imAbRandomNumber < 0.2){
     
 }
         
-else if(imAbRandomNumber < 1.2){
+else if(imAbRandomNumber < 1.01){
     
     
 var div = document.createElement("div");
-div.setAttribute("id", "js_id_kts_A_35");
-document.querySelector("body").insertAdjacentElement("beforeend", div);
-console.log("imab push js_id_kts_A: js_id_kts_A_35 name: SKlik");
+div.setAttribute("id", "js_id_kts_A_36");
+document.querySelector("body").insertAdjacentElement("afterbegin", div);
+console.log("imab push js_id_kts_A: js_id_kts_A_36 name: Admaster");
 var imJsElem = document.createElement("script");
 imJsElem.type = "text/javascript";
-imJsElem.id = "jscript_id_kts_A_35";
+imJsElem.id = "jscript_id_kts_A_36";
 imJsElem.innerHTML = "var ibbTagEngine= document.createElement(\"script\");ibbTagEngine.id = \"ibbTagEngine\";ibbTagEngine.src = \"https://bbcdn-static.bbelements.com/scripts/ibb-async/stable/tag.js\";document.querySelector(\"id_kts_A_35\").appendChild(ibbTagEngine);var adserver = ibbAds.tag.useAdProvider('BbmCz');adserver.manageAdSlot('adm-sticky', '27063.1.1.1'); var getIbbId = ibbAds.tag.useDataProvider('BbnautIdDataProvider', { url : 'https://bbcdn-static.bbelements.com/scripts/ibb-async/stable/plugins/BbnautIdDataProvider.js' }); adserver.attachData('ibbid', getIbbId);ibbAds.tag.requestAndPlaceAds();";
-document.querySelector("#js_id_kts_A_35").appendChild(imJsElem);
+document.querySelector("#js_id_kts_A_36").appendChild(imJsElem);
 
 var div = document.createElement("div");
-div.setAttribute("id", "css_id_kts_A_35");
-document.querySelector("body").insertAdjacentElement("beforeend", div);
+div.setAttribute("id", "css_id_kts_A_36");
+document.querySelector("body").insertAdjacentElement("afterbegin", div);
     
-console.log("imab push css_id_kts_A: css_id_kts_A_35 name: SKlik");
+console.log("imab push css_id_kts_A: css_id_kts_A_36 name: Admaster");
     
 
 var imAbStyleNode;
 var imAbContentStyleTop = "";
-if((imAbStyleNode = document.createElement("style")).id = "cssscript_id_kts_A_35", imAbStyleNode.type = "text/css", window.attachEvent && !window.opera){ 
+if((imAbStyleNode = document.createElement("style")).id = "cssscript_id_kts_A_36", imAbStyleNode.type = "text/css", window.attachEvent && !window.opera){ 
     imAbStyleNode.styleSheet.cssText = imAbContentStyleTop;
 }else{
     var imAbStyleText = document.createTextNode(imAbContentStyleTop);
     imAbStyleNode.appendChild(imAbStyleText)
 }
 
-//document.querySelector("#css_id_kts_A_35").innerHTML += "<sty"+"le></sty"+"le>";
-document.querySelector("#css_id_kts_A_35").appendChild(imAbStyleNode);   
+//document.querySelector("#css_id_kts_A_36").innerHTML += "<sty"+"le></sty"+"le>";
+document.querySelector("#css_id_kts_A_36").appendChild(imAbStyleNode);   
 
 var div = document.createElement("div");
-div.setAttribute("id", "html_id_kts_A_35");
-document.querySelector("body").insertAdjacentElement("beforeend", div);
+div.setAttribute("id", "html_id_kts_A_36");
+document.querySelector("body").insertAdjacentElement("afterbegin", div);
     
-console.log("imab push html_id_kts_A: html_id_kts_A_35 name: SKlik");
-document.querySelector("#html_id_kts_A_35").innerHTML += "";
+console.log("imab push html_id_kts_A: html_id_kts_A_36 name: Admaster");
+document.querySelector("#html_id_kts_A_36").innerHTML += "<div id=\"adm-sticky\"></div>";
 
     
 
     
 }
         
-else if(imAbRandomNumber < 1.4){
-    
-    
-    
-
-    
-}
-        
-else if(imAbRandomNumber < 1.6){
+else if(imAbRandomNumber < 1.21){
     
     
     
@@ -100,7 +92,7 @@ else if(imAbRandomNumber < 1.6){
     
 }
         
-else if(imAbRandomNumber < 1.8){
+else if(imAbRandomNumber < 1.41){
     
     
     
@@ -112,4 +104,4 @@ else{
 //not necessary
 }
 
-//lenght: 5
+//lenght: 4
