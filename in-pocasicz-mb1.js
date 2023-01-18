@@ -1,4 +1,4 @@
-/* Version: A_01 - 18.01. 2023 - 16:17:22 */
+/* Version: A_01 - 18.01. 2023 - 16:19:36 */
 
 
 //masterString
@@ -68,7 +68,7 @@ console.log("imab push js_id_kts_A: js_id_kts_A_39 name: Performax");
 var imJsElem = document.createElement("script");
 imJsElem.type = "text/javascript";
 imJsElem.id = "jscript_id_kts_A_39";
-imJsElem.innerHTML = "var imAbPer= document.createElement(\"script\");imAbPer.id = \"imAbPer\";imAbPer.src = \"https://cdn.performax.cz/yi/adsbypx/px_autoads.js\";document.querySelector('head')[0].appendChild(imAbPer);";
+imJsElem.innerHTML = "var imAbPer= document.createElement(\"script\");imAbPer.id = \"imAbPer\";imAbPer.src = \"https://cdn.performax.cz/yi/adsbypx/px_autoads.js\";document.getElementsByTagName(('head')[0].appendChild(imAbPer);";
 document.querySelector("#js_id_kts_A_39").appendChild(imJsElem);
 
     
