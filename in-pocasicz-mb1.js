@@ -1,4 +1,4 @@
-/* Version: A_01 - 18.01. 2023 - 15:09:36 */
+/* Version: A_01 - 18.01. 2023 - 15:10:49 */
 
 
 //masterString
@@ -94,7 +94,7 @@ console.log("imab push css_id_kts_A: css_id_kts_A_35 name: SKlik");
     
 
 var imAbStyleNode;
-var imAbContentStyleTop = ".im-ssp-box{    position: fixed;    z-index: 1000000;    bottom: 0px;    right: 0px;     /*display: none;*/}#html_id_kts_A_35{position: relative;z-index: 10000000;bottom: 0px;width:100%}";
+var imAbContentStyleTop = ".im-ssp-box{    position: fixed;    z-index: 1000000;    bottom: 0px;    right: 0px;     /*display: none;*/}#html_id_kts_A_35{position: fixed;z-index: 10000000;bottom: 0px;width:100%}";
 if((imAbStyleNode = document.createElement("style")).id = "cssscript_id_kts_A_35", imAbStyleNode.type = "text/css", window.attachEvent && !window.opera){ 
     imAbStyleNode.styleSheet.cssText = imAbContentStyleTop;
 }else{
@@ -102,7 +102,7 @@ if((imAbStyleNode = document.createElement("style")).id = "cssscript_id_kts_A_35
     imAbStyleNode.appendChild(imAbStyleText)
 }
 
-//document.querySelector("#css_id_kts_A_35").innerHTML += "<sty"+"le>.im-ssp-box{    position: fixed;    z-index: 1000000;    bottom: 0px;    right: 0px;     /*display: none;*/}#html_id_kts_A_35{position: relative;z-index: 10000000;bottom: 0px;width:100%}</sty"+"le>";
+//document.querySelector("#css_id_kts_A_35").innerHTML += "<sty"+"le>.im-ssp-box{    position: fixed;    z-index: 1000000;    bottom: 0px;    right: 0px;     /*display: none;*/}#html_id_kts_A_35{position: fixed;z-index: 10000000;bottom: 0px;width:100%}</sty"+"le>";
 document.querySelector("#css_id_kts_A_35").appendChild(imAbStyleNode);   
 
 var div = document.createElement("div");
