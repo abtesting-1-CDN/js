@@ -1,4 +1,4 @@
-/* Version: A_01 - 18.01. 2023 - 15:00:21 */
+/* Version: A_01 - 18.01. 2023 - 15:02:23 */
 
 
 //masterString
@@ -50,7 +50,7 @@ console.log("imab push css_id_kts_A: css_id_kts_A_33 name: Google");
     
 
 var imAbStyleNode;
-var imAbContentStyleTop = "#html_id_kts_A_35{position: fixed;z-index: 10000000;bottom: 0px;}";
+var imAbContentStyleTop = "";
 if((imAbStyleNode = document.createElement("style")).id = "cssscript_id_kts_A_33", imAbStyleNode.type = "text/css", window.attachEvent && !window.opera){ 
     imAbStyleNode.styleSheet.cssText = imAbContentStyleTop;
 }else{
@@ -58,7 +58,7 @@ if((imAbStyleNode = document.createElement("style")).id = "cssscript_id_kts_A_33
     imAbStyleNode.appendChild(imAbStyleText)
 }
 
-//document.querySelector("#css_id_kts_A_33").innerHTML += "<sty"+"le>#html_id_kts_A_35{position: fixed;z-index: 10000000;bottom: 0px;}</sty"+"le>";
+//document.querySelector("#css_id_kts_A_33").innerHTML += "<sty"+"le></sty"+"le>";
 document.querySelector("#css_id_kts_A_33").appendChild(imAbStyleNode);   
 
 var div = document.createElement("div");
@@ -94,7 +94,7 @@ console.log("imab push css_id_kts_A: css_id_kts_A_35 name: SKlik");
     
 
 var imAbStyleNode;
-var imAbContentStyleTop = ".im-ssp-box{    position: fixed;    z-index: 1000000;    bottom: 0px;    right: 0px;     /*display: none;*/}";
+var imAbContentStyleTop = ".im-ssp-box{    position: fixed;    z-index: 1000000;    bottom: 0px;    right: 0px;     /*display: none;*/}#html_id_kts_A_35{position: fixed;z-index: 10000000;bottom: 0px;}";
 if((imAbStyleNode = document.createElement("style")).id = "cssscript_id_kts_A_35", imAbStyleNode.type = "text/css", window.attachEvent && !window.opera){ 
     imAbStyleNode.styleSheet.cssText = imAbContentStyleTop;
 }else{
@@ -102,7 +102,7 @@ if((imAbStyleNode = document.createElement("style")).id = "cssscript_id_kts_A_35
     imAbStyleNode.appendChild(imAbStyleText)
 }
 
-//document.querySelector("#css_id_kts_A_35").innerHTML += "<sty"+"le>.im-ssp-box{    position: fixed;    z-index: 1000000;    bottom: 0px;    right: 0px;     /*display: none;*/}</sty"+"le>";
+//document.querySelector("#css_id_kts_A_35").innerHTML += "<sty"+"le>.im-ssp-box{    position: fixed;    z-index: 1000000;    bottom: 0px;    right: 0px;     /*display: none;*/}#html_id_kts_A_35{position: fixed;z-index: 10000000;bottom: 0px;}</sty"+"le>";
 document.querySelector("#css_id_kts_A_35").appendChild(imAbStyleNode);   
 
 var div = document.createElement("div");
