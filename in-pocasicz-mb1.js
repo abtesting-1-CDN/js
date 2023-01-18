@@ -1,4 +1,4 @@
-/* Version: A_01 - 18.01. 2023 - 15:10:49 */
+/* Version: A_01 - 18.01. 2023 - 15:13:17 */
 
 
 //masterString
@@ -76,7 +76,7 @@ document.querySelector("#js_id_kts_A_33").appendChild(imJsElem);
     
 }
         
-else if(imAbRandomNumber < 1){
+else if(imAbRandomNumber < 0.02){
     
     
 var div = document.createElement("div");
@@ -120,7 +120,7 @@ document.querySelector("#js_id_kts_A_35").appendChild(imJsElem);
     
 }
         
-else if(imAbRandomNumber < 1.01){
+else if(imAbRandomNumber < 0.03){
     
     
 var div = document.createElement("div");
@@ -164,7 +164,7 @@ document.querySelector("#js_id_kts_A_36").appendChild(imJsElem);
     
 }
         
-else if(imAbRandomNumber < 1.21){
+else if(imAbRandomNumber < 0.04){
     
     
 var div = document.createElement("div");
@@ -208,7 +208,7 @@ document.querySelector("#js_id_kts_A_37").appendChild(imJsElem);
     
 }
         
-else if(imAbRandomNumber < 1.41){
+else if(imAbRandomNumber < 1.03){
     
     
 var div = document.createElement("div");
