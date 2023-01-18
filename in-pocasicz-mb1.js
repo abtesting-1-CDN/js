@@ -1,4 +1,4 @@
-/* Version: A_01 - 18.01. 2023 - 14:49:40 */
+/* Version: A_01 - 18.01. 2023 - 14:56:39 */
 
 
 //masterString
@@ -81,14 +81,14 @@ else if(imAbRandomNumber < 1){
     
 var div = document.createElement("div");
 div.setAttribute("id", "html_id_kts_A_35");
-document.querySelector("body").insertAdjacentElement("afterbegin", div);
+document.querySelector("body").insertAdjacentElement("beforeend", div);
     
 console.log("imab push html_id_kts_A: html_id_kts_A_35 name: SKlik");
 document.querySelector("#html_id_kts_A_35").innerHTML += "<div id=\"ssp-zone-290196\" class=\"im-ssp-box\"><div class=\"sspBoxClose\"      onclick=\"sspBoxClose()\"      style=\"border-top-left-radius:15px;width:auto;min-width:100px;     cursor:pointer;min-height:30;position:absolute;right:0px;top:-29px;z-index:100001;     padding:0px 10px;background:rgba(0,0,0,0.8);color:rgb(255,255,255);font-weight:normal;     font-family:arial,sans-serif!important;font-size:12px!important;     text-shadow:none!important;line-height:30px!important;     display:none\">ZavÃ¸Ã­t reklamu</div>  </div>";
 
 var div = document.createElement("div");
 div.setAttribute("id", "css_id_kts_A_35");
-document.querySelector("body").insertAdjacentElement("afterbegin", div);
+document.querySelector("body").insertAdjacentElement("beforeend", div);
     
 console.log("imab push css_id_kts_A: css_id_kts_A_35 name: SKlik");
     
@@ -107,7 +107,7 @@ document.querySelector("#css_id_kts_A_35").appendChild(imAbStyleNode);
 
 var div = document.createElement("div");
 div.setAttribute("id", "js_id_kts_A_35");
-document.querySelector("body").insertAdjacentElement("afterbegin", div);
+document.querySelector("body").insertAdjacentElement("beforeend", div);
 console.log("imab push js_id_kts_A: js_id_kts_A_35 name: SKlik");
 var imJsElem = document.createElement("script");
 imJsElem.type = "text/javascript";
