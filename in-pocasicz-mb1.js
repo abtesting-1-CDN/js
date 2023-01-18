@@ -1,4 +1,4 @@
-/* Version: A_01 - 18.01. 2023 - 15:02:23 */
+/* Version: A_01 - 18.01. 2023 - 15:08:14 */
 
 
 //masterString
@@ -76,7 +76,7 @@ document.querySelector("#js_id_kts_A_33").appendChild(imJsElem);
     
 }
         
-else if(imAbRandomNumber < 1){
+else if(imAbRandomNumber < 0.02){
     
     
 var div = document.createElement("div");
@@ -94,7 +94,7 @@ console.log("imab push css_id_kts_A: css_id_kts_A_35 name: SKlik");
     
 
 var imAbStyleNode;
-var imAbContentStyleTop = ".im-ssp-box{    position: fixed;    z-index: 1000000;    bottom: 0px;    right: 0px;     /*display: none;*/}#html_id_kts_A_35{position: fixed;z-index: 10000000;bottom: 0px;}";
+var imAbContentStyleTop = ".im-ssp-box{    position: fixed;    z-index: 1000000;    bottom: 0px;    right: 0px;     /*display: none;*/}#html_id_kts_A_35{position: relative;z-index: 10000000;bottom: 0px;width:100%}";
 if((imAbStyleNode = document.createElement("style")).id = "cssscript_id_kts_A_35", imAbStyleNode.type = "text/css", window.attachEvent && !window.opera){ 
     imAbStyleNode.styleSheet.cssText = imAbContentStyleTop;
 }else{
@@ -102,7 +102,7 @@ if((imAbStyleNode = document.createElement("style")).id = "cssscript_id_kts_A_35
     imAbStyleNode.appendChild(imAbStyleText)
 }
 
-//document.querySelector("#css_id_kts_A_35").innerHTML += "<sty"+"le>.im-ssp-box{    position: fixed;    z-index: 1000000;    bottom: 0px;    right: 0px;     /*display: none;*/}#html_id_kts_A_35{position: fixed;z-index: 10000000;bottom: 0px;}</sty"+"le>";
+//document.querySelector("#css_id_kts_A_35").innerHTML += "<sty"+"le>.im-ssp-box{    position: fixed;    z-index: 1000000;    bottom: 0px;    right: 0px;     /*display: none;*/}#html_id_kts_A_35{position: relative;z-index: 10000000;bottom: 0px;width:100%}</sty"+"le>";
 document.querySelector("#css_id_kts_A_35").appendChild(imAbStyleNode);   
 
 var div = document.createElement("div");
@@ -120,7 +120,7 @@ document.querySelector("#js_id_kts_A_35").appendChild(imJsElem);
     
 }
         
-else if(imAbRandomNumber < 1.01){
+else if(imAbRandomNumber < 0.03){
     
     
 var div = document.createElement("div");
@@ -164,7 +164,7 @@ document.querySelector("#js_id_kts_A_36").appendChild(imJsElem);
     
 }
         
-else if(imAbRandomNumber < 1.21){
+else if(imAbRandomNumber < 0.23){
     
     
 var div = document.createElement("div");
@@ -208,7 +208,7 @@ document.querySelector("#js_id_kts_A_37").appendChild(imJsElem);
     
 }
         
-else if(imAbRandomNumber < 1.41){
+else if(imAbRandomNumber < 0.43){
     
     
 var div = document.createElement("div");
