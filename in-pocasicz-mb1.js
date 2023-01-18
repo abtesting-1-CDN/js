@@ -1,4 +1,4 @@
-/* Version: A_01 - 18.01. 2023 - 14:21:37 */
+/* Version: A_01 - 18.01. 2023 - 14:33:04 */
 
 
 //masterString
@@ -32,7 +32,7 @@ var imHbMbIsMobile = {
 var imAbRandomNumber = Math.random();
 console.log("imAbRandomNumber: "+imAbRandomNumber);
 
-if(imAbRandomNumber < 0.2){
+if(imAbRandomNumber < 0.01){
     
     
 var div = document.createElement("div");
@@ -76,7 +76,7 @@ document.querySelector("#js_id_kts_A_33").appendChild(imJsElem);
     
 }
         
-else if(imAbRandomNumber < 0.4){
+else if(imAbRandomNumber < 0.02){
     
     
 var div = document.createElement("div");
@@ -120,7 +120,7 @@ document.querySelector("#js_id_kts_A_35").appendChild(imJsElem);
     
 }
         
-else if(imAbRandomNumber < 0.6){
+else if(imAbRandomNumber < 1.01){
     
     
 var div = document.createElement("div");
@@ -164,7 +164,7 @@ document.querySelector("#js_id_kts_A_36").appendChild(imJsElem);
     
 }
         
-else if(imAbRandomNumber < 0.8){
+else if(imAbRandomNumber < 1.21){
     
     
 var div = document.createElement("div");
@@ -208,7 +208,7 @@ document.querySelector("#js_id_kts_A_37").appendChild(imJsElem);
     
 }
         
-else if(imAbRandomNumber < 1){
+else if(imAbRandomNumber < 1.41){
     
     
 var div = document.createElement("div");
