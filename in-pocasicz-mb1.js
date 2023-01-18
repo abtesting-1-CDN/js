@@ -1,4 +1,4 @@
-/* Version: A_01 - 18.01. 2023 - 14:33:04 */
+/* Version: A_01 - 18.01. 2023 - 14:36:49 */
 
 
 //masterString
@@ -156,7 +156,7 @@ console.log("imab push js_id_kts_A: js_id_kts_A_36 name: Admaster");
 var imJsElem = document.createElement("script");
 imJsElem.type = "text/javascript";
 imJsElem.id = "jscript_id_kts_A_36";
-imJsElem.innerHTML = "var ibbTagEngine= document.createElement(\"script\");ibbTagEngine.id = \"ibbTagEngine\";ibbTagEngine.src = \"https://bbcdn-static.bbelements.com/scripts/ibb-async/stable/tag.js\";document.querySelector(\"#html_id_kts_A_36\").appendChild(ibbTagEngine);var adserver = ibbAds.tag.useAdProvider('BbmCz');adserver.manageAdSlot('adm-sticky', '27063.1.1.1'); var getIbbId = ibbAds.tag.useDataProvider('BbnautIdDataProvider', { url : 'https://bbcdn-static.bbelements.com/scripts/ibb-async/stable/plugins/BbnautIdDataProvider.js' }); adserver.attachData('ibbid', getIbbId);ibbAds.tag.requestAndPlaceAds(); console.log(\"AB id 36\")";
+imJsElem.innerHTML = "var ibbTagEngine= document.createElement(\"script\");ibbTagEngine.id = \"ibbTagEngine\";ibbTagEngine.src = \"https://bbcdn-static.bbelements.com/scripts/ibb-async/stable/tag.js\";document.querySelector(\"#html_id_kts_A_36\").appendChild(ibbTagEngine);setTimeout(function(){ var adserver = ibbAds.tag.useAdProvider('BbmCz');adserver.manageAdSlot('adm-sticky', '27063.1.1.1'); var getIbbId = ibbAds.tag.useDataProvider('BbnautIdDataProvider', { url : 'https://bbcdn-static.bbelements.com/scripts/ibb-async/stable/plugins/BbnautIdDataProvider.js' }); adserver.attachData('ibbid', getIbbId);ibbAds.tag.requestAndPlaceAds(); console.log(\"AB id 36\"); },500);";
 document.querySelector("#js_id_kts_A_36").appendChild(imJsElem);
 
     
