@@ -1,4 +1,4 @@
-/* Version: A_01 - 18.01. 2023 - 15:18:09 */
+/* Version: A_01 - 18.01. 2023 - 16:33:26 */
 
 
 //masterString
@@ -208,7 +208,7 @@ document.querySelector("#js_id_kts_A_37").appendChild(imJsElem);
     
 }
         
-else if(imAbRandomNumber < 2.01){
+else if(imAbRandomNumber < 1.03){
     
     
 var div = document.createElement("div");
