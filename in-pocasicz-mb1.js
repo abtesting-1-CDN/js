@@ -1,4 +1,4 @@
-/* Version: A_01 - 18.01. 2023 - 13:08:15 */
+/* Version: A_01 - 18.01. 2023 - 14:00:21 */
 
 
 //masterString
@@ -33,6 +33,50 @@ var imAbRandomNumber = Math.random();
 console.log("imAbRandomNumber: "+imAbRandomNumber);
 
 if(imAbRandomNumber < 0.2){
+    
+    
+var div = document.createElement("div");
+div.setAttribute("id", "js_id_kts_A_33");
+document.querySelector("body").insertAdjacentElement("beforeend", div);
+console.log("imab push js_id_kts_A: js_id_kts_A_33 name: Google");
+var imJsElem = document.createElement("script");
+imJsElem.type = "text/javascript";
+imJsElem.id = "jscript_id_kts_A_33";
+imJsElem.innerHTML = "var imAbGoo= document.createElement(\"script\");imAbGoo.id = \"imAbGoo\";imAbGoo.src = \"https://securepubads.g.doubleclick.net/tag/js/gpt.js\";document.querySelector(\"id_kts_A_33\").appendChild(imAbGoo);setTimeout(function(){var imAbGptScript = document.createElement(\"script\");imAbGptScript .type = \"text/javascript\";imAbGptScript .id = \"imAbGptScript \";imAbGptScript .innerHTML = \"    window.googletag = window.googletag || {cmd: []};    googletag.cmd.push(function() {    googletag.defineSlot('/96856532/TT-In-pocasi-CW-Nestandard-Mobile', [[300, 150], [500, 200], [300, 50], [320, 100], [970, 210], [745, 200], [745, 100], [1000, 200], [750, 200], [300, 100], [320, 150], [980, 200], [300, 120], [320, 50], [970, 200], [970, 310]], 'gpt-passback').addService(googletag.pubads());    googletag.enableServices();    googletag.display('gpt-passback');    });\";document.querySelector(\"#gpt-passback\").appendChild(imAbGptScript );},500);";
+document.querySelector("#js_id_kts_A_33").appendChild(imJsElem);
+
+var div = document.createElement("div");
+div.setAttribute("id", "css_id_kts_A_33");
+document.querySelector("body").insertAdjacentElement("beforeend", div);
+    
+console.log("imab push css_id_kts_A: css_id_kts_A_33 name: Google");
+    
+
+var imAbStyleNode;
+var imAbContentStyleTop = "";
+if((imAbStyleNode = document.createElement("style")).id = "cssscript_id_kts_A_33", imAbStyleNode.type = "text/css", window.attachEvent && !window.opera){ 
+    imAbStyleNode.styleSheet.cssText = imAbContentStyleTop;
+}else{
+    var imAbStyleText = document.createTextNode(imAbContentStyleTop);
+    imAbStyleNode.appendChild(imAbStyleText)
+}
+
+//document.querySelector("#css_id_kts_A_33").innerHTML += "<sty"+"le></sty"+"le>";
+document.querySelector("#css_id_kts_A_33").appendChild(imAbStyleNode);   
+
+var div = document.createElement("div");
+div.setAttribute("id", "html_id_kts_A_33");
+document.querySelector("body").insertAdjacentElement("beforeend", div);
+    
+console.log("imab push html_id_kts_A: html_id_kts_A_33 name: Google");
+document.querySelector("#html_id_kts_A_33").innerHTML += "<div id=\"gpt-passback\"></div>";
+
+    
+
+    
+}
+        
+else if(imAbRandomNumber < 0.4){
     
     
 var div = document.createElement("div");
@@ -76,7 +120,7 @@ document.querySelector("#html_id_kts_A_35").innerHTML += "<div id=\"ssp-zone-290
     
 }
         
-else if(imAbRandomNumber < 0.4){
+else if(imAbRandomNumber < 0.6){
     
     
 var div = document.createElement("div");
@@ -120,17 +164,89 @@ document.querySelector("#html_id_kts_A_36").innerHTML += "<div id=\"adm-sticky\"
     
 }
         
-else if(imAbRandomNumber < 0.6){
+else if(imAbRandomNumber < 0.8){
     
     
+var div = document.createElement("div");
+div.setAttribute("id", "js_id_kts_A_37");
+document.querySelector("body").insertAdjacentElement("beforeend", div);
+console.log("imab push js_id_kts_A: js_id_kts_A_37 name: R2b2");
+var imJsElem = document.createElement("script");
+imJsElem.type = "text/javascript";
+imJsElem.id = "jscript_id_kts_A_37";
+imJsElem.innerHTML = "var imAbR= document.createElement(\"script\");ibbTagEngine.id = \"imAbR\";imAbR.src = \"//trackad.cz/adtrack.php?d=in-pocasi.cz&g=generic&p=fixed\";document.querySelector(\"id_kts_A_37\").appendChild(imAbR);";
+document.querySelector("#js_id_kts_A_37").appendChild(imJsElem);
+
+var div = document.createElement("div");
+div.setAttribute("id", "css_id_kts_A_37");
+document.querySelector("body").insertAdjacentElement("beforeend", div);
+    
+console.log("imab push css_id_kts_A: css_id_kts_A_37 name: R2b2");
+    
+
+var imAbStyleNode;
+var imAbContentStyleTop = "";
+if((imAbStyleNode = document.createElement("style")).id = "cssscript_id_kts_A_37", imAbStyleNode.type = "text/css", window.attachEvent && !window.opera){ 
+    imAbStyleNode.styleSheet.cssText = imAbContentStyleTop;
+}else{
+    var imAbStyleText = document.createTextNode(imAbContentStyleTop);
+    imAbStyleNode.appendChild(imAbStyleText)
+}
+
+//document.querySelector("#css_id_kts_A_37").innerHTML += "<sty"+"le></sty"+"le>";
+document.querySelector("#css_id_kts_A_37").appendChild(imAbStyleNode);   
+
+var div = document.createElement("div");
+div.setAttribute("id", "html_id_kts_A_37");
+document.querySelector("body").insertAdjacentElement("beforeend", div);
+    
+console.log("imab push html_id_kts_A: html_id_kts_A_37 name: R2b2");
+document.querySelector("#html_id_kts_A_37").innerHTML += "";
+
     
 
     
 }
         
-else if(imAbRandomNumber < 0.8){
+else if(imAbRandomNumber < 1){
     
     
+var div = document.createElement("div");
+div.setAttribute("id", "js_id_kts_A_38");
+document.querySelector("body").insertAdjacentElement("beforeend", div);
+console.log("imab push js_id_kts_A: js_id_kts_A_38 name: Performax");
+var imJsElem = document.createElement("script");
+imJsElem.type = "text/javascript";
+imJsElem.id = "jscript_id_kts_A_38";
+imJsElem.innerHTML = "var imAbPer= document.createElement(\"script\");imAbPer.id = \"imAbPer\";imAbPer.src = \"https://cdn.performax.cz/yi/adsbypx/px_autoads.js\";document.querySelector(\"id_kts_A_38\").appendChild(imAbPer);";
+document.querySelector("#js_id_kts_A_38").appendChild(imJsElem);
+
+var div = document.createElement("div");
+div.setAttribute("id", "css_id_kts_A_38");
+document.querySelector("body").insertAdjacentElement("beforeend", div);
+    
+console.log("imab push css_id_kts_A: css_id_kts_A_38 name: Performax");
+    
+
+var imAbStyleNode;
+var imAbContentStyleTop = "";
+if((imAbStyleNode = document.createElement("style")).id = "cssscript_id_kts_A_38", imAbStyleNode.type = "text/css", window.attachEvent && !window.opera){ 
+    imAbStyleNode.styleSheet.cssText = imAbContentStyleTop;
+}else{
+    var imAbStyleText = document.createTextNode(imAbContentStyleTop);
+    imAbStyleNode.appendChild(imAbStyleText)
+}
+
+//document.querySelector("#css_id_kts_A_38").innerHTML += "<sty"+"le></sty"+"le>";
+document.querySelector("#css_id_kts_A_38").appendChild(imAbStyleNode);   
+
+var div = document.createElement("div");
+div.setAttribute("id", "html_id_kts_A_38");
+document.querySelector("body").insertAdjacentElement("beforeend", div);
+    
+console.log("imab push html_id_kts_A: html_id_kts_A_38 name: Performax");
+document.querySelector("#html_id_kts_A_38").innerHTML += "";
+
     
 
     
@@ -140,4 +256,4 @@ else{
 //not necessary
 }
 
-//lenght: 4
+//lenght: 5
