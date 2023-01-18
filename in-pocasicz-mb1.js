@@ -1,4 +1,4 @@
-/* Version: A_01 - 18.01. 2023 - 14:18:15 */
+/* Version: A_01 - 18.01. 2023 - 14:19:00 */
 
 
 //masterString
@@ -200,7 +200,7 @@ console.log("imab push js_id_kts_A: js_id_kts_A_37 name: R2b2");
 var imJsElem = document.createElement("script");
 imJsElem.type = "text/javascript";
 imJsElem.id = "jscript_id_kts_A_37";
-imJsElem.innerHTML = "var imAbR= document.createElement(\"script\");ibbTagEngine.id = \"imAbR\";imAbR.src = \"//trackad.cz/adtrack.php?d=in-pocasi.cz&g=generic&p=fixed\";document.querySelector(\"html_id_kts_A_37\").appendChild(imAbR);";
+imJsElem.innerHTML = "var imAbR= document.createElement(\"script\");imAbR.id = \"imAbR\";imAbR.src = \"//trackad.cz/adtrack.php?d=in-pocasi.cz&g=generic&p=fixed\";document.querySelector(\"html_id_kts_A_37\").appendChild(imAbR);";
 document.querySelector("#js_id_kts_A_37").appendChild(imJsElem);
 
     
