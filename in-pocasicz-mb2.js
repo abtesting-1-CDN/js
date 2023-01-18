@@ -1,4 +1,4 @@
-/* Version: A_01 - 18.01. 2023 - 16:53:56 */
+/* Version: A_01 - 18.01. 2023 - 16:57:30 */
 
 
 //masterString
@@ -84,7 +84,7 @@ div.setAttribute("id", "html_id_kts_A_35");
 document.querySelector("body").insertAdjacentElement("beforeend", div);
     
 console.log("imab push html_id_kts_A: html_id_kts_A_35 name: Sklik");
-document.querySelector("#html_id_kts_A_35").innerHTML += "<div id=\"ssp-zone-290196\" class=\"im-ssp-box\"><div class=\"sspBoxClose\"      onclick=\"sspBoxClose()\"      style=\"border-top-left-radius:15px;width:auto;min-width:100px;     cursor:pointer;min-height:30;position:absolute;right:0px;top:-29px;z-index:100001;     padding:0px 10px;background:rgba(0,0,0,0.8);color:rgb(255,255,255);font-weight:normal;     font-family:arial,sans-serif!important;font-size:12px!important;     text-shadow:none!important;line-height:30px!important;     display:none\">Zav&#345;Ã­t reklamu</div>  </div>";
+document.querySelector("#html_id_kts_A_35").innerHTML += "<div id=\"ssp-zone-290196\" class=\"im-ssp-box\"><div class=\"sspBoxClose\" onclick=\"sspBoxClose()\" style=\"border-top-left-radius:15px;width:auto;min-width:100px;cursor:pointer;min-height:30;position:absolute;right:0px;top:-29px;z-index:100001;padding:0px 10px;background:rgba(0,0,0,0.8);color:rgb(255,255,255);font-weight:normal;font-family:arial,sans-serif!important;font-size:12px!important;text-shadow:none!important;line-height:30px!important;display:none\">Zav&#345;Ã­t reklamu</div></div>";
 
 var div = document.createElement("div");
 div.setAttribute("id", "css_id_kts_A_35");
@@ -94,7 +94,7 @@ console.log("imab push css_id_kts_A: css_id_kts_A_35 name: Sklik");
     
 
 var imAbStyleNode;
-var imAbContentStyleTop = ".im-ssp-box{    position: fixed;    z-index: 1000000;    bottom: 0px;    right: 0px;     /*display: none;*/}#html_id_kts_A_35{position: fixed;z-index: 10000000;bottom: 0px;width:100%}";
+var imAbContentStyleTop = ".im-ssp-box{position: fixed;z-index: 1000000;bottom: 0px;right: 0px; /*display: none;*/} #html_id_kts_A_35{position: fixed;z-index: 10000000;bottom: 0px;width:100%}";
 if((imAbStyleNode = document.createElement("style")).id = "cssscript_id_kts_A_35", imAbStyleNode.type = "text/css", window.attachEvent && !window.opera){ 
     imAbStyleNode.styleSheet.cssText = imAbContentStyleTop;
 }else{
@@ -102,7 +102,7 @@ if((imAbStyleNode = document.createElement("style")).id = "cssscript_id_kts_A_35
     imAbStyleNode.appendChild(imAbStyleText)
 }
 
-//document.querySelector("#css_id_kts_A_35").innerHTML += "<sty"+"le>.im-ssp-box{    position: fixed;    z-index: 1000000;    bottom: 0px;    right: 0px;     /*display: none;*/}#html_id_kts_A_35{position: fixed;z-index: 10000000;bottom: 0px;width:100%}</sty"+"le>";
+//document.querySelector("#css_id_kts_A_35").innerHTML += "<sty"+"le>.im-ssp-box{position: fixed;z-index: 1000000;bottom: 0px;right: 0px; /*display: none;*/} #html_id_kts_A_35{position: fixed;z-index: 10000000;bottom: 0px;width:100%}</sty"+"le>";
 document.querySelector("#css_id_kts_A_35").appendChild(imAbStyleNode);   
 
 var div = document.createElement("div");
