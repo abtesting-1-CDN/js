@@ -1,4 +1,4 @@
-/* Version: A_01 - 23.01. 2023 - 13:01:38 */
+/* Version: A_01 - 23.01. 2023 - 13:02:29 */
 
 
 //masterString
@@ -50,7 +50,7 @@ console.log("imab push css_id_kts_A: css_id_kts_A_33 name: Google");
     
 
 var imAbStyleNode;
-var imAbContentStyleTop = "#imAbGoo-passback{position:fixed; width:100%; height:auto; bottom:0px; left:0px; background:red; z-index:1000}";
+var imAbContentStyleTop = "#imAbGoo-passback{position:fixed; width:100%; height:200px; bottom:0px; left:0px; background:red; z-index:1000}";
 if((imAbStyleNode = document.createElement("style")).id = "cssscript_id_kts_A_33", imAbStyleNode.type = "text/css", window.attachEvent && !window.opera){ 
     imAbStyleNode.styleSheet.cssText = imAbContentStyleTop;
 }else{
@@ -58,7 +58,7 @@ if((imAbStyleNode = document.createElement("style")).id = "cssscript_id_kts_A_33
     imAbStyleNode.appendChild(imAbStyleText)
 }
 
-//document.querySelector("#css_id_kts_A_33").innerHTML += "<sty"+"le>#imAbGoo-passback{position:fixed; width:100%; height:auto; bottom:0px; left:0px; background:red; z-index:1000}</sty"+"le>";
+//document.querySelector("#css_id_kts_A_33").innerHTML += "<sty"+"le>#imAbGoo-passback{position:fixed; width:100%; height:200px; bottom:0px; left:0px; background:red; z-index:1000}</sty"+"le>";
 document.querySelector("#css_id_kts_A_33").appendChild(imAbStyleNode);   
 
 var div = document.createElement("div");
