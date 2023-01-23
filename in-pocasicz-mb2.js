@@ -1,4 +1,4 @@
-/* Version: A_01 - 23.01. 2023 - 13:45:59 */
+/* Version: A_01 - 23.01. 2023 - 13:51:29 */
 
 
 //masterString
@@ -40,7 +40,7 @@ div.setAttribute("id", "html_id_kts_A_33");
 document.querySelector("body").insertAdjacentElement("afterbegin", div);
     
 console.log("imab push html_id_kts_A: html_id_kts_A_33 name: Google");
-document.querySelector("#html_id_kts_A_33").innerHTML += "<div id=\"imAbGooPassbackBox\"><div id=\"imAbGooPassbackClose\" onclick=\"imAbGooPassbackClose()\" style=\"\">Zav&#345;Ã­t reklamu</div><div id=\"imAbGoo-passback\"></div></div>";
+document.querySelector("#html_id_kts_A_33").innerHTML += "<div id=\"imAbGooPassbackBox\"><div id=\"imAbGooPassbackClose\" onclick=\"imAbGooPassbackClose()\" style=\"\">Zav&#345;&iacute;t reklamu</div><div id=\"imAbGoo-passback\"></div></div>";
 
 var div = document.createElement("div");
 div.setAttribute("id", "css_id_kts_A_33");
