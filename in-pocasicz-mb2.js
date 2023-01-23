@@ -1,4 +1,4 @@
-/* Version: A_01 - 23.01. 2023 - 14:53:06 */
+/* Version: A_01 - 23.01. 2023 - 14:54:51 */
 
 
 //masterString
@@ -50,7 +50,7 @@ console.log("imab push css_id_kts_A: css_id_kts_A_33 name: Google");
     
 
 var imAbStyleNode;
-var imAbContentStyleTop = "#imAbGooPassbackBox{position:fixed; width:100%; height:auto; bottom:0px; left:0px; background:red; z-index:1000} #imAbGooPassbackClose{border-top-left-radius:15px;width:auto;min-width:100px;cursor:pointer;min-height:30;position:absolute;right:0px;top:-29px;z-index:100001;padding:0px 10px;background:rgba(0,0,0,0.8);color:rgb(255,255,255);font-weight:normal;font-family:arial,sans-serif!important;font-size:12px!important;text-shadow:none!important;line-height:30px!important;display:block} #imAbGooPassbackBox iframe{float: right;}";
+var imAbContentStyleTop = "#imAbGooPassbackBox{position:fixed; width:100%; height:auto; bottom:0px; left:0px; background:red; z-index:1000} #imAbGooPassbackClose{border-top-left-radius:15px;width:auto;min-width:100px;cursor:pointer;min-height:30;position:absolute;right:0px;top:-29px;z-index:100001;padding:0px 10px;background:rgba(0,0,0,0.8);color:rgb(255,255,255);font-weight:normal;font-family:arial,sans-serif!important;font-size:12px!important;text-shadow:none!important;line-height:30px!important;display:block} #imAbGooPassbackBox iframe{float: right;}#imAbGoo-passback > div {float:right}";
 if((imAbStyleNode = document.createElement("style")).id = "cssscript_id_kts_A_33", imAbStyleNode.type = "text/css", window.attachEvent && !window.opera){ 
     imAbStyleNode.styleSheet.cssText = imAbContentStyleTop;
 }else{
@@ -58,7 +58,7 @@ if((imAbStyleNode = document.createElement("style")).id = "cssscript_id_kts_A_33
     imAbStyleNode.appendChild(imAbStyleText)
 }
 
-//document.querySelector("#css_id_kts_A_33").innerHTML += "<sty"+"le>#imAbGooPassbackBox{position:fixed; width:100%; height:auto; bottom:0px; left:0px; background:red; z-index:1000} #imAbGooPassbackClose{border-top-left-radius:15px;width:auto;min-width:100px;cursor:pointer;min-height:30;position:absolute;right:0px;top:-29px;z-index:100001;padding:0px 10px;background:rgba(0,0,0,0.8);color:rgb(255,255,255);font-weight:normal;font-family:arial,sans-serif!important;font-size:12px!important;text-shadow:none!important;line-height:30px!important;display:block} #imAbGooPassbackBox iframe{float: right;}</sty"+"le>";
+//document.querySelector("#css_id_kts_A_33").innerHTML += "<sty"+"le>#imAbGooPassbackBox{position:fixed; width:100%; height:auto; bottom:0px; left:0px; background:red; z-index:1000} #imAbGooPassbackClose{border-top-left-radius:15px;width:auto;min-width:100px;cursor:pointer;min-height:30;position:absolute;right:0px;top:-29px;z-index:100001;padding:0px 10px;background:rgba(0,0,0,0.8);color:rgb(255,255,255);font-weight:normal;font-family:arial,sans-serif!important;font-size:12px!important;text-shadow:none!important;line-height:30px!important;display:block} #imAbGooPassbackBox iframe{float: right;}#imAbGoo-passback > div {float:right}</sty"+"le>";
 document.querySelector("#css_id_kts_A_33").appendChild(imAbStyleNode);   
 
 var div = document.createElement("div");
