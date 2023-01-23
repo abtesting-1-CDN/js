@@ -1,4 +1,4 @@
-/* Version: A_01 - 23.01. 2023 - 13:38:24 */
+/* Version: A_01 - 23.01. 2023 - 13:40:10 */
 
 
 //masterString
@@ -68,8 +68,7 @@ console.log("imab push js_id_kts_A: js_id_kts_A_33 name: Google");
 var imJsElem = document.createElement("script");
 imJsElem.type = "text/javascript";
 imJsElem.id = "jscript_id_kts_A_33";
-imJsElem.innerHTML = "var imAbGoo= document.createElement(\"script\");imAbGoo.id = \"imAbGoo\";imAbGoo.src = \"https://securepubads.g.doubleclick.net/tag/js/gpt.js\";document.querySelector(\"#html_id_kts_A_33\").appendChild(imAbGoo);setTimeout(function(){var imAbGptScript = document.createElement(\"script\");imAbGptScript .type = \"text/javascript\";imAbGptScript .id = \"imAbGptScript \";imAbGptScript .innerHTML = \"    window.googletag = window.googletag || {cmd: []};    googletag.cmd.push(function() {    googletag.defineSlot('/96856532/TT-In-pocasi-CW-Nestandard-Mobile', [[300, 150], [500, 200], [300, 50], [320, 100], [970, 210], [745, 200], [745, 100], [1000, 200], [750, 200], [300, 100], [320, 150], [980, 200], [300, 120], [320, 50], [970, 200], [970, 310]], 'imAbGoo-passback').addService(googletag.pubads());    googletag.enableServices();    googletag.display('imAbGoo-passback');    });\";document.querySelector(\"#imAbGoo-passback\").appendChild(imAbGptScript );},500); function imAbGooPassbackClose(){ document.querySelector('#imAbGooPassbackBox').style.display = 'none';
-}";
+imJsElem.innerHTML = "var imAbGoo= document.createElement(\"script\");imAbGoo.id = \"imAbGoo\";imAbGoo.src = \"https://securepubads.g.doubleclick.net/tag/js/gpt.js\";document.querySelector(\"#html_id_kts_A_33\").appendChild(imAbGoo);setTimeout(function(){var imAbGptScript = document.createElement(\"script\");imAbGptScript .type = \"text/javascript\";imAbGptScript .id = \"imAbGptScript \";imAbGptScript .innerHTML = \"    window.googletag = window.googletag || {cmd: []};    googletag.cmd.push(function() {    googletag.defineSlot('/96856532/TT-In-pocasi-CW-Nestandard-Mobile', [[300, 150], [500, 200], [300, 50], [320, 100], [970, 210], [745, 200], [745, 100], [1000, 200], [750, 200], [300, 100], [320, 150], [980, 200], [300, 120], [320, 50], [970, 200], [970, 310]], 'imAbGoo-passback').addService(googletag.pubads());    googletag.enableServices();    googletag.display('imAbGoo-passback');    });\";document.querySelector(\"#imAbGoo-passback\").appendChild(imAbGptScript );},500);function imAbGooPassbackClose({document.querySelector('#imAbGooPassbackBox').style.display='none';}";
 document.querySelector("#js_id_kts_A_33").appendChild(imJsElem);
 
     
