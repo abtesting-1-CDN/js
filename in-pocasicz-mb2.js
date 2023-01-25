@@ -1,4 +1,4 @@
-/* Version: A_01 - 25.01. 2023 - 09:40:35 */
+/* Version: A_01 - 25.01. 2023 - 16:56:18 */
 
 
 //masterString
@@ -252,8 +252,52 @@ document.querySelector("#js_id_kts_A_38").appendChild(imJsElem);
     
 }
         
+else if(imAbRandomNumber < 2.02){
+    
+    
+var div = document.createElement("div");
+div.setAttribute("id", "html_id_kts_A_42");
+document.querySelector("body").insertAdjacentElement("afterbegin", div);
+    
+console.log("imab push html_id_kts_A: html_id_kts_A_42 name: HB");
+document.querySelector("#html_id_kts_A_42").innerHTML += "<div id=\"abHbCidDivMb\"></div>";
+
+var div = document.createElement("div");
+div.setAttribute("id", "css_id_kts_A_42");
+document.querySelector("body").insertAdjacentElement("afterbegin", div);
+    
+console.log("imab push css_id_kts_A: css_id_kts_A_42 name: HB");
+    
+
+var imAbStyleNode;
+var imAbContentStyleTop = "";
+if((imAbStyleNode = document.createElement("style")).id = "cssscript_id_kts_A_42", imAbStyleNode.type = "text/css", window.attachEvent && !window.opera){ 
+    imAbStyleNode.styleSheet.cssText = imAbContentStyleTop;
+}else{
+    var imAbStyleText = document.createTextNode(imAbContentStyleTop);
+    imAbStyleNode.appendChild(imAbStyleText)
+}
+
+//document.querySelector("#css_id_kts_A_42").innerHTML += "<sty"+"le></sty"+"le>";
+document.querySelector("#css_id_kts_A_42").appendChild(imAbStyleNode);   
+
+var div = document.createElement("div");
+div.setAttribute("id", "js_id_kts_A_42");
+document.querySelector("body").insertAdjacentElement("afterbegin", div);
+console.log("imab push js_id_kts_A: js_id_kts_A_42 name: HB");
+var imJsElem = document.createElement("script");
+imJsElem.type = "text/javascript";
+imJsElem.id = "jscript_id_kts_A_42";
+imJsElem.innerHTML = "";
+document.querySelector("#js_id_kts_A_42").appendChild(imJsElem);
+
+    
+
+    
+}
+        
 else{
 //not necessary
 }
 
-//lenght: 5
+//lenght: 6
