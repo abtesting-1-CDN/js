@@ -1,4 +1,4 @@
-/* Version: A_01 - 26.01. 2023 - 12:30:16 */
+/* Version: A_01 - 26.01. 2023 - 12:32:14 */
 
 
 //masterString
@@ -260,7 +260,7 @@ div.setAttribute("id", "html_id_kts_A_42");
 document.querySelector("body").insertAdjacentElement("afterbegin", div);
     
 console.log("imab push html_id_kts_A: html_id_kts_A_42 name: HB");
-document.querySelector("#html_id_kts_A_42").innerHTML += "<div id=\"adformMobilniBranding\"></div>";
+document.querySelector("#html_id_kts_A_42").innerHTML += "<div id=\"abHbCidDivMb\"></div>";
 
 var div = document.createElement("div");
 div.setAttribute("id", "css_id_kts_A_42");
