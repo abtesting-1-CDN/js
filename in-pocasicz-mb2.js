@@ -1,4 +1,4 @@
-/* Version: A_01 - 26.01. 2023 - 12:47:25 */
+/* Version: A_01 - 26.01. 2023 - 12:49:40 */
 
 
 //masterString
@@ -252,7 +252,7 @@ document.querySelector("#js_id_kts_A_38").appendChild(imJsElem);
     
 }
         
-else if(imAbRandomNumber < 1.04){
+else if(imAbRandomNumber < 0.06){
     
     
 var div = document.createElement("div");
@@ -260,7 +260,7 @@ div.setAttribute("id", "html_id_kts_A_42");
 document.querySelector("body").insertAdjacentElement("afterbegin", div);
     
 console.log("imab push html_id_kts_A: html_id_kts_A_42 name: HB");
-document.querySelector("#html_id_kts_A_42").innerHTML += "<div id=\"abHbCidDivMb\"></div>";
+document.querySelector("#html_id_kts_A_42").innerHTML += "";
 
 var div = document.createElement("div");
 div.setAttribute("id", "css_id_kts_A_42");
