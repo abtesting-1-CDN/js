@@ -1,4 +1,4 @@
-/* Version: A_01 - 26.01. 2023 - 08:11:20 */
+/* Version: A_01 - 26.01. 2023 - 11:56:53 */
 
 
 //masterString
@@ -260,7 +260,7 @@ div.setAttribute("id", "html_id_kts_A_42");
 document.querySelector("body").insertAdjacentElement("afterbegin", div);
     
 console.log("imab push html_id_kts_A: html_id_kts_A_42 name: HB");
-document.querySelector("#html_id_kts_A_42").innerHTML += "<div id=\"abHbCidDivMb\"></div>";
+document.querySelector("#html_id_kts_A_42").innerHTML += "";
 
 var div = document.createElement("div");
 div.setAttribute("id", "css_id_kts_A_42");
@@ -288,7 +288,7 @@ console.log("imab push js_id_kts_A: js_id_kts_A_42 name: HB");
 var imJsElem = document.createElement("script");
 imJsElem.type = "text/javascript";
 imJsElem.id = "jscript_id_kts_A_42";
-imJsElem.innerHTML = "";
+imJsElem.innerHTML = "var adformMobilniBrandingVariable = 1;";
 document.querySelector("#js_id_kts_A_42").appendChild(imJsElem);
 
     
