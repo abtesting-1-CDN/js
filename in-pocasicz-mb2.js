@@ -1,4 +1,4 @@
-/* Version: A_01 - 26.01. 2023 - 12:32:14 */
+/* Version: A_01 - 26.01. 2023 - 12:39:56 */
 
 
 //masterString
@@ -288,7 +288,7 @@ console.log("imab push js_id_kts_A: js_id_kts_A_42 name: HB");
 var imJsElem = document.createElement("script");
 imJsElem.type = "text/javascript";
 imJsElem.id = "jscript_id_kts_A_42";
-imJsElem.innerHTML = "";
+imJsElem.innerHTML = "conosle.log('abHbCidDivMb')";
 document.querySelector("#js_id_kts_A_42").appendChild(imJsElem);
 
     
