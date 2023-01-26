@@ -1,4 +1,4 @@
-/* Version: A_01 - 26.01. 2023 - 15:41:57 */
+/* Version: A_01 - 26.01. 2023 - 15:44:54 */
 
 
 //masterString
@@ -288,7 +288,7 @@ console.log("imab push js_id_kts_A: js_id_kts_A_42 name: HB");
 var imJsElem = document.createElement("script");
 imJsElem.type = "text/javascript";
 imJsElem.id = "jscript_id_kts_A_42";
-imJsElem.innerHTML = "console.log('AB NO stop-MbReloadingAds' );  document.body.setAttribute(\"AB\", \"HB";
+imJsElem.innerHTML = "console.log('AB NO stop-MbReloadingAds' );  document.body.setAttribute(\"AB\", \"HB\");";
 document.querySelector("#js_id_kts_A_42").appendChild(imJsElem);
 
     
