@@ -1,4 +1,4 @@
-/* Version: A_01 - 25.01. 2023 - 16:56:18 */
+/* Version: A_01 - 26.01. 2023 - 08:07:00 */
 
 
 //masterString
@@ -32,7 +32,7 @@ var imHbMbIsMobile = {
 var imAbRandomNumber = Math.random();
 console.log("imAbRandomNumber: "+imAbRandomNumber);
 
-if(imAbRandomNumber < 0.99){
+if(imAbRandomNumber < 0.01){
     
     
 var div = document.createElement("div");
@@ -76,7 +76,7 @@ document.querySelector("#js_id_kts_A_33").appendChild(imJsElem);
     
 }
         
-else if(imAbRandomNumber < 1){
+else if(imAbRandomNumber < 0.51){
     
     
 var div = document.createElement("div");
@@ -120,7 +120,7 @@ document.querySelector("#js_id_kts_A_35").appendChild(imJsElem);
     
 }
         
-else if(imAbRandomNumber < 1.01){
+else if(imAbRandomNumber < 0.52){
     
     
 var div = document.createElement("div");
@@ -164,7 +164,7 @@ document.querySelector("#js_id_kts_A_36").appendChild(imJsElem);
     
 }
         
-else if(imAbRandomNumber < 1.02){
+else if(imAbRandomNumber < 0.53){
     
     
 var div = document.createElement("div");
@@ -208,7 +208,7 @@ document.querySelector("#js_id_kts_A_37").appendChild(imJsElem);
     
 }
         
-else if(imAbRandomNumber < 1.03){
+else if(imAbRandomNumber < 0.54){
     
     
 var div = document.createElement("div");
@@ -252,7 +252,7 @@ document.querySelector("#js_id_kts_A_38").appendChild(imJsElem);
     
 }
         
-else if(imAbRandomNumber < 2.02){
+else if(imAbRandomNumber < 1.04){
     
     
 var div = document.createElement("div");
