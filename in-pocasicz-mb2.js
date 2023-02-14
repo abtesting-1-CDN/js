@@ -1,4 +1,4 @@
-/* Version: A_01 - 14.02. 2023 - 13:34:56 */
+/* Version: A_01 - 14.02. 2023 - 13:47:13 */
 
 
 //masterString
@@ -288,7 +288,7 @@ console.log("imab push js_id_kts_A: js_id_kts_A_42 name: HB");
 var imJsElem = document.createElement("script");
 imJsElem.type = "text/javascript";
 imJsElem.id = "jscript_id_kts_A_42";
-imJsElem.innerHTML = "console.log('AB NO stop-MbReloadingAds' );  document.body.setAttribute(\"AB\", \"HB\");var imAbHbMaster = document.createElement(\"script\");imAbHbMaster.type = \"text/javascript\";imAbHbMaster.id = \"imHbMaster\";imAbHbMaster.src = \"https://cdn.jsdelivr.net/gh/HB-1-CDN/js/1541.js\";document.getElementsByTagName('head')[0].appendChild(imAbHbMaster );";
+imJsElem.innerHTML = "console.log('AB NO stop-MbReloadingAds' );  document.body.setAttribute(\"AB\", \"HB\");var imAbHbMaster = document.createElement(\"script\");imAbHbMaster.type = \"text/javascript\";imAbHbMaster.id = \"imHbMaster\";imAbHbMaster.src = \"https://hb.impressionmedia.cz/tmp/1541.js\";document.getElementsByTagName('head')[0].appendChild(imAbHbMaster );";
 document.querySelector("#js_id_kts_A_42").appendChild(imJsElem);
 
     
