@@ -1,4 +1,4 @@
-/* Version: A_01 - 15.02. 2023 - 08:16:31 */
+/* Version: A_01 - 15.02. 2023 - 14:40:23 */
 
 
 //masterString
@@ -32,7 +32,7 @@ var imHbMbIsMobile = {
 var imAbRandomNumber = Math.random();
 console.log("imAbRandomNumber: "+imAbRandomNumber);
 
-if(imAbRandomNumber < 0.16){
+if(imAbRandomNumber < 0.1666){
     
     
 var div = document.createElement("div");
@@ -76,7 +76,7 @@ document.querySelector("#js_id_kts_A_33").appendChild(imJsElem);
     
 }
         
-else if(imAbRandomNumber < 0.32){
+else if(imAbRandomNumber < 0.3332){
     
     
 var div = document.createElement("div");
@@ -120,7 +120,7 @@ document.querySelector("#js_id_kts_A_35").appendChild(imJsElem);
     
 }
         
-else if(imAbRandomNumber < 0.48){
+else if(imAbRandomNumber < 0.4998){
     
     
 var div = document.createElement("div");
@@ -164,7 +164,7 @@ document.querySelector("#js_id_kts_A_36").appendChild(imJsElem);
     
 }
         
-else if(imAbRandomNumber < 0.64){
+else if(imAbRandomNumber < 0.6664){
     
     
 var div = document.createElement("div");
@@ -208,7 +208,7 @@ document.querySelector("#js_id_kts_A_37").appendChild(imJsElem);
     
 }
         
-else if(imAbRandomNumber < 0.8){
+else if(imAbRandomNumber < 0.833){
     
     
 var div = document.createElement("div");
@@ -252,7 +252,7 @@ document.querySelector("#js_id_kts_A_38").appendChild(imJsElem);
     
 }
         
-else if(imAbRandomNumber < 0.96){
+else if(imAbRandomNumber < 0.9996){
     
     
 var div = document.createElement("div");
