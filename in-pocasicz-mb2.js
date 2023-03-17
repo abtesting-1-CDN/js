@@ -1,4 +1,4 @@
-/* Version: A_01 - 16.03. 2023 - 03:03:36 */
+/* Version: A_01 - 17.03. 2023 - 22:10:25 */
 
 
 //masterString
@@ -34,17 +34,18 @@ console.log("imAbRandomNumber: "+imAbRandomNumber);
 
 if(imAbRandomNumber < 0.16666){
     
+    if(imHbMbIsMobile.any()){ 
     
 var div = document.createElement("div");
 div.setAttribute("id", "html_id_kts_A_33");
-document.querySelector("body").insertAdjacentElement("afterbegin", div);
+document.querySelector("body").insertAdjacentElement("afterend", div);
     
 console.log("imab push html_id_kts_A: html_id_kts_A_33 name: Google");
 document.querySelector("#html_id_kts_A_33").innerHTML += "<div id=\"imAbGooPassbackBox\"><div id=\"imAbGooPassbackClose\" onclick=\"imAbGooPassbackClose()\" style=\"\">Zav&#345;&iacute;t reklamu</div><div id=\"imAbGoo-passback\"></div></div>";
 
 var div = document.createElement("div");
 div.setAttribute("id", "css_id_kts_A_33");
-document.querySelector("body").insertAdjacentElement("afterbegin", div);
+document.querySelector("body").insertAdjacentElement("afterend", div);
     
 console.log("imab push css_id_kts_A: css_id_kts_A_33 name: Google");
     
@@ -63,7 +64,7 @@ document.querySelector("#css_id_kts_A_33").appendChild(imAbStyleNode);
 
 var div = document.createElement("div");
 div.setAttribute("id", "js_id_kts_A_33");
-document.querySelector("body").insertAdjacentElement("afterbegin", div);
+document.querySelector("body").insertAdjacentElement("afterend", div);
 console.log("imab push js_id_kts_A: js_id_kts_A_33 name: Google");
 var imJsElem = document.createElement("script");
 imJsElem.type = "text/javascript";
@@ -72,12 +73,13 @@ imJsElem.innerHTML = "var imReloadingPocetCyklu = 5;var imReloadingDobaCyklu = 5
 document.querySelector("#js_id_kts_A_33").appendChild(imJsElem);
 
     
-
+    }
     
 }
         
 else if(imAbRandomNumber < 0.33332){
     
+    if(imHbMbIsMobile.any()){ 
     
 var div = document.createElement("div");
 div.setAttribute("id", "html_id_kts_A_35");
@@ -116,12 +118,13 @@ imJsElem.innerHTML = "document.body.setAttribute(\"data-mobilniBranding-closeMbC
 document.querySelector("#js_id_kts_A_35").appendChild(imJsElem);
 
     
-
+    }
     
 }
         
 else if(imAbRandomNumber < 0.49998){
     
+    if(imHbMbIsMobile.any()){ 
     
 var div = document.createElement("div");
 div.setAttribute("id", "html_id_kts_A_36");
@@ -160,12 +163,13 @@ imJsElem.innerHTML = "document.body.setAttribute(\"data-mobilniBranding-closeMbC
 document.querySelector("#js_id_kts_A_36").appendChild(imJsElem);
 
     
-
+    }
     
 }
         
 else if(imAbRandomNumber < 0.66664){
     
+    if(imHbMbIsMobile.any()){ 
     
 var div = document.createElement("div");
 div.setAttribute("id", "html_id_kts_A_37");
@@ -204,12 +208,13 @@ imJsElem.innerHTML = "document.body.setAttribute(\"data-mobilniBranding-closeMbC
 document.querySelector("#js_id_kts_A_37").appendChild(imJsElem);
 
     
-
+    }
     
 }
         
 else if(imAbRandomNumber < 0.8333){
     
+    if(imHbMbIsMobile.any()){ 
     
 var div = document.createElement("div");
 div.setAttribute("id", "html_id_kts_A_38");
@@ -248,12 +253,13 @@ imJsElem.innerHTML = "document.body.setAttribute(\"data-mobilniBranding-closeMbC
 document.querySelector("#js_id_kts_A_38").appendChild(imJsElem);
 
     
-
+    }
     
 }
         
 else if(imAbRandomNumber < 0.99996){
     
+    if(imHbMbIsMobile.any()){ 
     
 var div = document.createElement("div");
 div.setAttribute("id", "html_id_kts_A_42");
@@ -292,7 +298,7 @@ imJsElem.innerHTML = "console.log('AB NO stop-MbReloadingAds' );  document.body
 document.querySelector("#js_id_kts_A_42").appendChild(imJsElem);
 
     
-
+    }
     
 }
         
