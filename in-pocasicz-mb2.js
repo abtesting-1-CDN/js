@@ -1,4 +1,4 @@
-/* Version: A_01 - 17.03. 2023 - 22:10:25 */
+/* Version: A_01 - 20.03. 2023 - 16:55:56 */
 
 
 //masterString
@@ -34,7 +34,6 @@ console.log("imAbRandomNumber: "+imAbRandomNumber);
 
 if(imAbRandomNumber < 0.16666){
     
-    if(imHbMbIsMobile.any()){ 
     
 var div = document.createElement("div");
 div.setAttribute("id", "html_id_kts_A_33");
@@ -73,13 +72,12 @@ imJsElem.innerHTML = "var imReloadingPocetCyklu = 5;var imReloadingDobaCyklu = 5
 document.querySelector("#js_id_kts_A_33").appendChild(imJsElem);
 
     
-    }
+
     
 }
         
 else if(imAbRandomNumber < 0.33332){
     
-    if(imHbMbIsMobile.any()){ 
     
 var div = document.createElement("div");
 div.setAttribute("id", "html_id_kts_A_35");
@@ -118,13 +116,12 @@ imJsElem.innerHTML = "document.body.setAttribute(\"data-mobilniBranding-closeMbC
 document.querySelector("#js_id_kts_A_35").appendChild(imJsElem);
 
     
-    }
+
     
 }
         
 else if(imAbRandomNumber < 0.49998){
     
-    if(imHbMbIsMobile.any()){ 
     
 var div = document.createElement("div");
 div.setAttribute("id", "html_id_kts_A_36");
@@ -163,13 +160,12 @@ imJsElem.innerHTML = "document.body.setAttribute(\"data-mobilniBranding-closeMbC
 document.querySelector("#js_id_kts_A_36").appendChild(imJsElem);
 
     
-    }
+
     
 }
         
 else if(imAbRandomNumber < 0.66664){
     
-    if(imHbMbIsMobile.any()){ 
     
 var div = document.createElement("div");
 div.setAttribute("id", "html_id_kts_A_37");
@@ -208,13 +204,12 @@ imJsElem.innerHTML = "document.body.setAttribute(\"data-mobilniBranding-closeMbC
 document.querySelector("#js_id_kts_A_37").appendChild(imJsElem);
 
     
-    }
+
     
 }
         
 else if(imAbRandomNumber < 0.8333){
     
-    if(imHbMbIsMobile.any()){ 
     
 var div = document.createElement("div");
 div.setAttribute("id", "html_id_kts_A_38");
@@ -253,13 +248,12 @@ imJsElem.innerHTML = "document.body.setAttribute(\"data-mobilniBranding-closeMbC
 document.querySelector("#js_id_kts_A_38").appendChild(imJsElem);
 
     
-    }
+
     
 }
         
 else if(imAbRandomNumber < 0.99996){
     
-    if(imHbMbIsMobile.any()){ 
     
 var div = document.createElement("div");
 div.setAttribute("id", "html_id_kts_A_42");
@@ -298,7 +292,7 @@ imJsElem.innerHTML = "console.log('AB NO stop-MbReloadingAds' );  document.body
 document.querySelector("#js_id_kts_A_42").appendChild(imJsElem);
 
     
-    }
+
     
 }
         
