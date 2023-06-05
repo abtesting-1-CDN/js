@@ -1,4 +1,4 @@
-/* Version: A_01 - 05.06. 2023 - 18:19:04 */
+/* Version: A_01 - 05.06. 2023 - 21:47:01 */
 
 
 //masterString
@@ -288,7 +288,7 @@ console.log("imab push js_id_kts_A: js_id_kts_A_66 name: HB");
 var imJsElem = document.createElement("script");
 imJsElem.type = "text/javascript";
 imJsElem.id = "jscript_id_kts_A_66";
-imJsElem.innerHTML = "console.log('AB NO stop-MbReloadingAds' );  document.body.setAttribute(\"AB\", \"HB\");var imAbHbMaster = document.createElement(\"script\");imAbHbMaster.type = \"text/javascript\";imAbHbMaster.id = \"imHbMaster\";imAbHbMaster.src = \"https://cdn.jsdelivr.net/gh/HB-1-CDN/js/1619.js\";document.getElementsByTagName('head')[0].appendChild(imAbHbMaster );";
+imJsElem.innerHTML = "console.log('AB NO stop-MbReloadingAds' );  document.body.setAttribute(\"AB\", \"HB\");var imAbHbMaster = document.createElement(\"script\");imAbHbMaster.type = \"text/javascript\";imAbHbMaster.id = \"imHbMaster\";imAbHbMaster.src = \"https://cdn.jsdelivr.net/gh/HB-2-CDN/js/1619.js\";document.getElementsByTagName('head')[0].appendChild(imAbHbMaster );";
 document.querySelector("#js_id_kts_A_66").appendChild(imJsElem);
 
     
