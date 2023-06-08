@@ -1,4 +1,4 @@
-/* Version: A_01 - 08.06. 2023 - 13:16:46 */
+/* Version: A_01 - 08.06. 2023 - 15:24:55 */
 
 
 //masterString
@@ -37,14 +37,14 @@ if(imAbRandomNumber < 0.16){
     
 var div = document.createElement("div");
 div.setAttribute("id", "html_id_kts_A_32");
-document.querySelector("regex A").insertAdjacentElement("afterend", div);
+document.querySelector("body").insertAdjacentElement("afterend", div);
     
 console.log("imab push html_id_kts_A: html_id_kts_A_32 name: Google");
 document.querySelector("#html_id_kts_A_32").innerHTML += "<span data-ab=\"Google-No-Mobile\" style=\"display:none\"></span>";
 
 var div = document.createElement("div");
 div.setAttribute("id", "css_id_kts_A_32");
-document.querySelector("regex A").insertAdjacentElement("afterend", div);
+document.querySelector("body").insertAdjacentElement("afterend", div);
     
 console.log("imab push css_id_kts_A: css_id_kts_A_32 name: Google");
     
@@ -63,7 +63,7 @@ document.querySelector("#css_id_kts_A_32").appendChild(imAbStyleNode);
 
 var div = document.createElement("div");
 div.setAttribute("id", "js_id_kts_A_32");
-document.querySelector("regex A").insertAdjacentElement("afterend", div);
+document.querySelector("body").insertAdjacentElement("afterend", div);
 console.log("imab push js_id_kts_A: js_id_kts_A_32 name: Google");
 var imJsElem = document.createElement("script");
 imJsElem.type = "text/javascript";
