@@ -1,4 +1,4 @@
-/* Version: A_01 - 30.08. 2023 - 14:33:03 */
+/* Version: A_01 - 30.08. 2023 - 14:53:47 */
 
 
 //masterString
@@ -37,14 +37,14 @@ if(imAbRandomNumber < 0.1){
     
 var div = document.createElement("div");
 div.setAttribute("id", "html_id_kts_A_34");
-document.querySelector("regex A").insertAdjacentElement("afterbegin", div);
+document.querySelector("body").insertAdjacentElement("afterbegin", div);
     
 console.log("imab push html_id_kts_A: html_id_kts_A_34 name: sKlik");
 document.querySelector("#html_id_kts_A_34").innerHTML += "<div id=\"ssp-zone-290196\" class=\"im-ssp-box\"><div class=\"sspBoxClose\" onclick=\"sspBoxClose()\" style=\"border-top-left-radius:15px;width:auto;min-width:100px;cursor:pointer;min-height:30;position:absolute;right:0px;top:-29px;z-index:100001;padding:0px 10px;background:rgba(0,0,0,0.8);color:rgb(255,255,255);font-weight:normal;font-family:arial,sans-serif!important;font-size:12px!important;text-shadow:none!important;line-height:30px!important;display:none\">Zav&#345;&#237;t reklamu</div></div>";
 
 var div = document.createElement("div");
 div.setAttribute("id", "css_id_kts_A_34");
-document.querySelector("regex A").insertAdjacentElement("afterbegin", div);
+document.querySelector("body").insertAdjacentElement("afterbegin", div);
     
 console.log("imab push css_id_kts_A: css_id_kts_A_34 name: sKlik");
     
@@ -63,7 +63,7 @@ document.querySelector("#css_id_kts_A_34").appendChild(imAbStyleNode);
 
 var div = document.createElement("div");
 div.setAttribute("id", "js_id_kts_A_34");
-document.querySelector("regex A").insertAdjacentElement("afterbegin", div);
+document.querySelector("body").insertAdjacentElement("afterbegin", div);
 console.log("imab push js_id_kts_A: js_id_kts_A_34 name: sKlik");
 var imJsElem = document.createElement("script");
 imJsElem.type = "text/javascript";
@@ -81,14 +81,14 @@ else if(imAbRandomNumber < 0.2){
     
 var div = document.createElement("div");
 div.setAttribute("id", "html_id_kts_A_58");
-document.querySelector("regex A").insertAdjacentElement("afterbegin", div);
+document.querySelector("body").insertAdjacentElement("afterbegin", div);
     
 console.log("imab push html_id_kts_A: html_id_kts_A_58 name: Google");
 document.querySelector("#html_id_kts_A_58").innerHTML += "<span data-ab=\"Google-No-Mobile\" style=\"display:none\"></span>";
 
 var div = document.createElement("div");
 div.setAttribute("id", "css_id_kts_A_58");
-document.querySelector("regex A").insertAdjacentElement("afterbegin", div);
+document.querySelector("body").insertAdjacentElement("afterbegin", div);
     
 console.log("imab push css_id_kts_A: css_id_kts_A_58 name: Google");
     
@@ -107,7 +107,7 @@ document.querySelector("#css_id_kts_A_58").appendChild(imAbStyleNode);
 
 var div = document.createElement("div");
 div.setAttribute("id", "js_id_kts_A_58");
-document.querySelector("regex A").insertAdjacentElement("afterbegin", div);
+document.querySelector("body").insertAdjacentElement("afterbegin", div);
 console.log("imab push js_id_kts_A: js_id_kts_A_58 name: Google");
 var imJsElem = document.createElement("script");
 imJsElem.type = "text/javascript";
@@ -125,14 +125,14 @@ else if(imAbRandomNumber < 0.4){
     
 var div = document.createElement("div");
 div.setAttribute("id", "html_id_kts_A_59");
-document.querySelector("regex A").insertAdjacentElement("afterbegin", div);
+document.querySelector("body").insertAdjacentElement("afterbegin", div);
     
 console.log("imab push html_id_kts_A: html_id_kts_A_59 name: Admaster");
 document.querySelector("#html_id_kts_A_59").innerHTML += "<div id=\"adm-sticky\"></div>";
 
 var div = document.createElement("div");
 div.setAttribute("id", "css_id_kts_A_59");
-document.querySelector("regex A").insertAdjacentElement("afterbegin", div);
+document.querySelector("body").insertAdjacentElement("afterbegin", div);
     
 console.log("imab push css_id_kts_A: css_id_kts_A_59 name: Admaster");
     
@@ -151,7 +151,7 @@ document.querySelector("#css_id_kts_A_59").appendChild(imAbStyleNode);
 
 var div = document.createElement("div");
 div.setAttribute("id", "js_id_kts_A_59");
-document.querySelector("regex A").insertAdjacentElement("afterbegin", div);
+document.querySelector("body").insertAdjacentElement("afterbegin", div);
 console.log("imab push js_id_kts_A: js_id_kts_A_59 name: Admaster");
 var imJsElem = document.createElement("script");
 imJsElem.type = "text/javascript";
@@ -169,14 +169,14 @@ else if(imAbRandomNumber < 0.6){
     
 var div = document.createElement("div");
 div.setAttribute("id", "html_id_kts_A_60");
-document.querySelector("regex A").insertAdjacentElement("afterbegin", div);
+document.querySelector("body").insertAdjacentElement("afterbegin", div);
     
 console.log("imab push html_id_kts_A: html_id_kts_A_60 name: R2B2");
 document.querySelector("#html_id_kts_A_60").innerHTML += "";
 
 var div = document.createElement("div");
 div.setAttribute("id", "css_id_kts_A_60");
-document.querySelector("regex A").insertAdjacentElement("afterbegin", div);
+document.querySelector("body").insertAdjacentElement("afterbegin", div);
     
 console.log("imab push css_id_kts_A: css_id_kts_A_60 name: R2B2");
     
@@ -195,7 +195,7 @@ document.querySelector("#css_id_kts_A_60").appendChild(imAbStyleNode);
 
 var div = document.createElement("div");
 div.setAttribute("id", "js_id_kts_A_60");
-document.querySelector("regex A").insertAdjacentElement("afterbegin", div);
+document.querySelector("body").insertAdjacentElement("afterbegin", div);
 console.log("imab push js_id_kts_A: js_id_kts_A_60 name: R2B2");
 var imJsElem = document.createElement("script");
 imJsElem.type = "text/javascript";
@@ -213,14 +213,14 @@ else if(imAbRandomNumber < 0.8){
     
 var div = document.createElement("div");
 div.setAttribute("id", "html_id_kts_A_78");
-document.querySelector("regex A").insertAdjacentElement("afterbegin", div);
+document.querySelector("body").insertAdjacentElement("afterbegin", div);
     
 console.log("imab push html_id_kts_A: html_id_kts_A_78 name: Performax");
 document.querySelector("#html_id_kts_A_78").innerHTML += "";
 
 var div = document.createElement("div");
 div.setAttribute("id", "css_id_kts_A_78");
-document.querySelector("regex A").insertAdjacentElement("afterbegin", div);
+document.querySelector("body").insertAdjacentElement("afterbegin", div);
     
 console.log("imab push css_id_kts_A: css_id_kts_A_78 name: Performax");
     
@@ -239,7 +239,7 @@ document.querySelector("#css_id_kts_A_78").appendChild(imAbStyleNode);
 
 var div = document.createElement("div");
 div.setAttribute("id", "js_id_kts_A_78");
-document.querySelector("regex A").insertAdjacentElement("afterbegin", div);
+document.querySelector("body").insertAdjacentElement("afterbegin", div);
 console.log("imab push js_id_kts_A: js_id_kts_A_78 name: Performax");
 var imJsElem = document.createElement("script");
 imJsElem.type = "text/javascript";
@@ -257,14 +257,14 @@ else if(imAbRandomNumber < 1){
     
 var div = document.createElement("div");
 div.setAttribute("id", "html_id_kts_A_79");
-document.querySelector("regex A").insertAdjacentElement("afterbegin", div);
+document.querySelector("body").insertAdjacentElement("afterbegin", div);
     
 console.log("imab push html_id_kts_A: html_id_kts_A_79 name: HB");
 document.querySelector("#html_id_kts_A_79").innerHTML += "";
 
 var div = document.createElement("div");
 div.setAttribute("id", "css_id_kts_A_79");
-document.querySelector("regex A").insertAdjacentElement("afterbegin", div);
+document.querySelector("body").insertAdjacentElement("afterbegin", div);
     
 console.log("imab push css_id_kts_A: css_id_kts_A_79 name: HB");
     
@@ -283,7 +283,7 @@ document.querySelector("#css_id_kts_A_79").appendChild(imAbStyleNode);
 
 var div = document.createElement("div");
 div.setAttribute("id", "js_id_kts_A_79");
-document.querySelector("regex A").insertAdjacentElement("afterbegin", div);
+document.querySelector("body").insertAdjacentElement("afterbegin", div);
 console.log("imab push js_id_kts_A: js_id_kts_A_79 name: HB");
 var imJsElem = document.createElement("script");
 imJsElem.type = "text/javascript";
