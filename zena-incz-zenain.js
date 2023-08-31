@@ -1,4 +1,4 @@
-/* Version: A_01 - 31.08. 2023 - 00:12:03 */
+/* Version: A_01 - 31.08. 2023 - 10:19:01 */
 
 
 //masterString
@@ -32,7 +32,7 @@ var imHbMbIsMobile = {
 var imAbRandomNumber = Math.random();
 console.log("imAbRandomNumber: "+imAbRandomNumber);
 
-if(imAbRandomNumber < 1){
+if(imAbRandomNumber < 0.1){
     
     
 var div = document.createElement("div");
@@ -40,7 +40,7 @@ div.setAttribute("id", "html_id_kts_A_34");
 document.querySelector("body").insertAdjacentElement("afterbegin", div);
     
 console.log("imab push html_id_kts_A: html_id_kts_A_34 name: sKlik");
-document.querySelector("#html_id_kts_A_34").innerHTML += "<div id=\"ssp-zone-290196\" class=\"im-ssp-box\"><div class=\"sspBoxClose\" onclick=\"sspBoxClose()\" style=\"border-top-left-radius:15px;width:auto;min-width:100px;cursor:pointer;min-height:30;position:absolute;right:0px;top:-29px;z-index:100001;padding:0px 10px;background:rgba(0,0,0,0.8);color:rgb(255,255,255);font-weight:normal;font-family:arial,sans-serif!important;font-size:12px!important;text-shadow:none!important;line-height:30px!important;display:none\">Zav&#345;&#237;t reklamu</div></div>";
+document.querySelector("#html_id_kts_A_34").innerHTML += "<div id=\"ssp-zone-319340\" class=\"im-ssp-box\"><div class=\"sspBoxClose\" onclick=\"sspBoxClose()\" style=\"border-top-left-radius:15px;width:auto;min-width:100px;cursor:pointer;min-height:30;position:absolute;right:0px;top:-29px;z-index:100001;padding:0px 10px;background:rgba(0,0,0,0.8);color:rgb(255,255,255);font-weight:normal;font-family:arial,sans-serif!important;font-size:12px!important;text-shadow:none!important;line-height:30px!important;display:none\">Zav&#345;&#237;t reklamu</div></div>";
 
 var div = document.createElement("div");
 div.setAttribute("id", "css_id_kts_A_34");
@@ -76,7 +76,7 @@ document.querySelector("#js_id_kts_A_34").appendChild(imJsElem);
     
 }
         
-else if(imAbRandomNumber < 1.1){
+else if(imAbRandomNumber < 0.2){
     
     
 var div = document.createElement("div");
@@ -120,7 +120,7 @@ document.querySelector("#js_id_kts_A_58").appendChild(imJsElem);
     
 }
         
-else if(imAbRandomNumber < 1.3){
+else if(imAbRandomNumber < 0.4){
     
     
 var div = document.createElement("div");
@@ -164,7 +164,7 @@ document.querySelector("#js_id_kts_A_59").appendChild(imJsElem);
     
 }
         
-else if(imAbRandomNumber < 1.5){
+else if(imAbRandomNumber < 0.6){
     
     
 var div = document.createElement("div");
@@ -208,7 +208,7 @@ document.querySelector("#js_id_kts_A_60").appendChild(imJsElem);
     
 }
         
-else if(imAbRandomNumber < 1.7){
+else if(imAbRandomNumber < 0.8){
     
     
 var div = document.createElement("div");
@@ -252,7 +252,7 @@ document.querySelector("#js_id_kts_A_78").appendChild(imJsElem);
     
 }
         
-else if(imAbRandomNumber < 1.9){
+else if(imAbRandomNumber < 1){
     
     
 var div = document.createElement("div");
