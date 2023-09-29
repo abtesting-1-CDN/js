@@ -1,4 +1,4 @@
-/* Version: A_01 - 20.09. 2023 - 14:07:36 */
+/* Version: A_01 - 29.09. 2023 - 09:32:35 */
 
 
 //masterString
@@ -164,7 +164,7 @@ document.querySelector("#js_id_kts_A_59").appendChild(imJsElem);
     
 }
         
-else if(imAbRandomNumber < 0.36){
+else if(imAbRandomNumber < 0.3){
     
     
 var div = document.createElement("div");
@@ -208,7 +208,7 @@ document.querySelector("#js_id_kts_A_60").appendChild(imJsElem);
     
 }
         
-else if(imAbRandomNumber < 0.56){
+else if(imAbRandomNumber < 0.65){
     
     
 var div = document.createElement("div");
