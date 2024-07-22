@@ -1,4 +1,4 @@
-/* Version: A_01 - 18.07. 2024 - 00:38:01 */
+/* Version: A_01 - 22.07. 2024 - 16:25:12 */
 
 
 //masterString
@@ -32,7 +32,7 @@ var imHbMbIsMobile = {
 var imAbRandomNumber = Math.random();
 console.log("imAbRandomNumber: "+imAbRandomNumber);
 
-if(imAbRandomNumber < 0.3){
+if(imAbRandomNumber < 0.5){
     
     
 var div = document.createElement("div");
@@ -76,7 +76,7 @@ document.querySelector("#js_id_kts_A_87").appendChild(imJsElem);
     
 }
         
-else if(imAbRandomNumber < 0.7){
+else if(imAbRandomNumber < 0.75){
     
     
 var div = document.createElement("div");
