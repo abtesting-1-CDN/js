@@ -1,4 +1,4 @@
-/* Version: A_01 - 03.12. 2024 - 12:49:41 */
+/* Version: A_01 - 03.12. 2024 - 13:24:52 */
 
 
 //masterString
@@ -68,7 +68,7 @@ console.log("imab push js_id_kts_A: js_id_kts_A_137 name: Performax");
 var imJsElem = document.createElement("script");
 imJsElem.type = "text/javascript";
 imJsElem.id = "jscript_id_kts_A_137";
-imJsElem.innerHTML = "imAbTestIsMobile = {    Android: function() {        return navigator.userAgent.match(/Android/i);    },    BlackBerry: function() {        return navigator.userAgent.match(/BlackBerry/i);    },    iOS: function() {        return navigator.userAgent.match(/iPhone|iPad|iPod/i);    },    Opera: function() {        return navigator.userAgent.match(/Opera Mini/i);    },    Windows: function() {        return navigator.userAgent.match(/IEMobile/i);    },    any: function() {        return (imAbTestIsMobile.Android() || imAbTestIsMobile.BlackBerry() || imAbTestIsMobile.iOS() || imAbTestIsMobile.Opera() || imAbTestIsMobile.Windows());    }};if(imAbTestIsMobile.any()){     imAbRunOnlyOnMobile();}else{     document.body.setAttribute(\"AB\", \"Performax-No-Mobile\");}function imAbRunOnlyOnMobile(){document.body.setAttribute(\"data-mobilniBranding-closeMbCappingPageBrowsing\", \"stop-MbReloadingAds\");document.body.setAttribute(\"AB\", \"Performax\");var imAbPer= document.createElement(\"script\");imAbPer.id = \"imAbPer\";imAbPer.src = \"https://cdn.performax.cz/yi/adsbypx/px_autoads.js\";document.querySelector(\"#html_id_kts_A_137\").appendChild(imAbPer);}var imAbHbMaster = document.createElement(\"script\");imAbHbMaster.type = \"text/javascript\";imAbHbMaster.id = \"imHbMaster\";imAbHbMaster.src = \"https://cdn.jsdelivr.net/gh/HB-4-CDN/js/1826.js\";document.getElementsByTagName('head')[0].appendChild(imAbHbMaster );";
+imJsElem.innerHTML = "imAbTestIsMobile = {    Android: function() {        return navigator.userAgent.match(/Android/i);    },    BlackBerry: function() {        return navigator.userAgent.match(/BlackBerry/i);    },    iOS: function() {        return navigator.userAgent.match(/iPhone|iPad|iPod/i);    },    Opera: function() {        return navigator.userAgent.match(/Opera Mini/i);    },    Windows: function() {        return navigator.userAgent.match(/IEMobile/i);    },    any: function() {        return (imAbTestIsMobile.Android() || imAbTestIsMobile.BlackBerry() || imAbTestIsMobile.iOS() || imAbTestIsMobile.Opera() || imAbTestIsMobile.Windows());    }};if(imAbTestIsMobile.any()){     imAbRunOnlyOnMobile();}else{     document.body.setAttribute(\"AB\", \"Performax-No-Mobile\");}function imAbRunOnlyOnMobile(){document.body.setAttribute(\"data-mobilniBranding-closeMbCappingPageBrowsing\", \"stop-MbReloadingAds\");document.body.setAttribute(\"AB\", \"Performax\");var imAbPer= document.createElement(\"script\");imAbPer.id = \"imAbPer\";imAbPer.src = \"https://cdn.performax.cz/yi/adsbypx/px_autoads.js\";document.querySelector(\"#html_id_kts_A_137\").appendChild(imAbPer);}var imAbHbMaster = document.createElement(\"script\");imAbHbMaster.type = \"text/javascript\";imAbHbMaster.id = \"imHbMaster\";imAbHbMaster.src = \"https://cdn.jsdelivr.net/gh/HB-4-CDN/js/1825.js\";document.getElementsByTagName('head')[0].appendChild(imAbHbMaster );";
 document.querySelector("#js_id_kts_A_137").appendChild(imJsElem);
 
     
@@ -112,7 +112,7 @@ console.log("imab push js_id_kts_A: js_id_kts_A_142 name: HB");
 var imJsElem = document.createElement("script");
 imJsElem.type = "text/javascript";
 imJsElem.id = "jscript_id_kts_A_142";
-imJsElem.innerHTML = "console.log('AB NO stop-MbReloadingAds' );  document.body.setAttribute(\"AB\", \"HB\");var imAbHbMaster = document.createElement(\"script\");imAbHbMaster.type = \"text/javascript\";imAbHbMaster.id = \"imHbMaster\";imAbHbMaster.src = \"https://cdn.jsdelivr.net/gh/HB-4-CDN/js/1826.js\";document.getElementsByTagName('head')[0].appendChild(imAbHbMaster );";
+imJsElem.innerHTML = "console.log('AB NO stop-MbReloadingAds' );  document.body.setAttribute(\"AB\", \"HB\");var imAbHbMaster = document.createElement(\"script\");imAbHbMaster.type = \"text/javascript\";imAbHbMaster.id = \"imHbMaster\";imAbHbMaster.src = \"https://cdn.jsdelivr.net/gh/HB-4-CDN/js/1825.js\";document.getElementsByTagName('head')[0].appendChild(imAbHbMaster );";
 document.querySelector("#js_id_kts_A_142").appendChild(imJsElem);
 
     
